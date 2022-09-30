@@ -1,0 +1,4 @@
+baseURL = 'http://keijiimai.com/'
+languageCode = 'en-us'
+title = 'Keiji Imai'
+theme = "blowfish"
