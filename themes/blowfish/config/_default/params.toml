@@ -36,7 +36,7 @@ enableCodeCopy = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  # editURL = "https://github.com/username/repo/"
+  editURL = "https://github.com/keiji-imai/blog/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
@@ -61,13 +61,13 @@ enableCodeCopy = true
   showTermCount = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyD0xTDmvxbRSFxbU6tJ5qSGt6UJ_fh9kng"
+  authDomain = "kogappa-a2cb2.firebaseapp.com"
+  projectId = "kogappa-a2cb2"
+  storageBucket = "kogappa-a2cb2.appspot.com"
+  messagingSenderId = "681617388955"
+  appId = "1:681617388955:web:48c64398c20691a43e5d3e"
+  measurementId = "G-ECNM3T7Q6V"
 
 [fathomAnalytics]
   # site = "ABC12345"
