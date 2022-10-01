@@ -6,15 +6,15 @@ weight = 1
 rtl = false
 
 title = "Keiji Imai"
-# logo = "img/logo.png"
-description = "My awesome website"
+logo = "img/blowfish_logo_transparent.png"
+description = "Keiji Imai's personal website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "Keiji Imai"
-  image = "img/internal_gear_solid.png"
+  # image = "img/internal_gear_solid.png"
   headline = "I build robots for fun"
   bio = "I'm currently a freshman at MIT."
   # links = [

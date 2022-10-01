@@ -2,6 +2,7 @@
 title: Why Blog
 date: 2022-09-28T18:25:02-04:00
 draft: True
+description: "3 reasons why I blog"
 ---
 
 I had no plans of making a blog a few months ago. Here are the reasons that changed my mind.
