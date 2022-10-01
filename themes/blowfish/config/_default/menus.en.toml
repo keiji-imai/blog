@@ -11,19 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Posts"
+  pageRef = "post"
   weight = 10
 
 [[main]]
   name = "Projects"
   pageRef = "Projects"
   weight = 20
-
-[[main]]
-  name = "Posts"
-  url = "paulgraham.com"
-  weight = 30
 
 
 # -- Footer Menu --

@@ -6,4 +6,4 @@ description: "Wecome to my website!"
 draft: false
 ---
 
-Welcome to my website! I'm really happy you stopped by.
+Welcome to my website! I like to build stuff and I'll be writing about my projects here. I'm a freshman at MIT and I'll probably major in mechanical engineering with a concentration in robotics.
