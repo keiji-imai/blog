@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-description: "Learn about some of my projects."
+description: "Ramblings about stuff I build"
 cascade:
   showReadingTime: false
   showLikes: True

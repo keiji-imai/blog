@@ -1,7 +1,7 @@
 ---
-title: "Welcome!"
+title: "kogappa"
 date: 2022-09-28T18:25:02-04:00
-description: "Wecome to my website!"
+description: "Keiji Imai's website"
 
 draft: false
 ---
