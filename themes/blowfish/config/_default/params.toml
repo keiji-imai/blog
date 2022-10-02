@@ -45,6 +45,7 @@ enableCodeCopy = true
   showTableOfContents = true
   showTaxonomies = false 
   showWordCount = true
+  showLikes = true
   showSummary = true
   sharingLinks = []
 
