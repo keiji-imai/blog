@@ -13,7 +13,7 @@ The drone records footage of its flights so that we can replay what it saw befor
 ![Corner](images/corner_compressed.gif)
 The drone also records footage with a debugger overlay which displays the color filter, ellipse fitting, solvePnP axes, and variables. The debugger helped us determine the root cause of every crash.
 ![Masked](images/masked.gif)
-![Overlay](images/bwsi_overlay.gif)
+![Overlay](images/bwsi_overlay_compressed.gif)
 
 For more details, see our presentation video:
 https://www.youtube.com/watch?v=lFV6kygEo7g
