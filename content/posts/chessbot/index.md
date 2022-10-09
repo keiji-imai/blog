@@ -1,6 +1,6 @@
 ---
 title: Chess Bot
-date: 2022-09-28T18:25:02-04:00
+date: 2022-10-09T18:25:02-04:00
 draft: False
 showLikes: True
 description: "I'm building a chess bot"
