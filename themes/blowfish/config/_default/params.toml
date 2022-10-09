@@ -23,9 +23,9 @@ enableCodeCopy = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = true
+  showRecent = false
   showRecentItems = 5
-  showMoreLink = true
+  showMoreLink = false
   showMoreLinkDest = "/posts"
 
 [article]
