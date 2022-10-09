@@ -9,7 +9,7 @@ As our [MIT BeaverWorks Summer Insitute](https://beaverworks.ll.mit.edu/CMS/bw/b
 
 We used OpenCV's solvePnP function to project 2D pixels into 3 dimensions. The drone positions itself using four PID controllers for x, y, z, and yaw. The drone records footage of its flights so that we can replay what it saw before crashes.
 First-person-view from the drone:
-![Unmasked](images/unmasked.gif)
+<!-- ![Unmasked](images/unmasked.gif) -->
 The drone also records footage with a debugger overlay which displays the color filter, ellipse fitting, solvePnP axes, and variables. The debugger helped us determine the root cause of every crash.
 ![Masked](images/masked.gif)
 
