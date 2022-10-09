@@ -150,7 +150,7 @@ var FontInspector = (function FontInspectorClosure() {
         if (this.active) {
           resetSelection();
         }
-      }, 2000);
+      }, 6000);
     },
   };
 })();
