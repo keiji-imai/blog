@@ -4057,7 +4057,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.PDFRenderingQueue = exports.RenderingStates = void 0;
-const CLEANUP_TIMEOUT = 30000;
+const CLEANUP_TIMEOUT = 60000;
 const RenderingStates = {
   INITIAL: 0,
   RUNNING: 1,
