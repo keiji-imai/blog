@@ -4,7 +4,7 @@ draft: False
 description: "Autonomous Soccer Robot for RoboCupJunior Open Division"
 ---
 ![Bangkok](images/rcj_bangkok.png)
-After four years of competing in RoboCupJunior Lightweight (read about [our lightweight robot](https://kogappa.com/projects/rcj_lw/)), Team Orion switched to the Open leagues. Our team was national champion in the Open division and represented the United States at the RoboCup2022 in Bangkok. The [poster](https://drive.google.com/file/d/1emEfwXLS5n6g16z6DUGnz8gLUFfxLsoF/view?usp=sharing) I made won the Best Poster award.
+After four years of competing in RoboCupJunior Lightweight (read about [our lightweight robot](https://kogappa.com/projects/rcj_lw/)), Team Orion switched to the Open league. In 2022, we represented the United States at the RoboCup2022 in Bangkok. Our [poster](https://drive.google.com/file/d/1emEfwXLS5n6g16z6DUGnz8gLUFfxLsoF/view?usp=sharing) won the Best Poster award.
 
 The important rule changes in the Open league are:
  - 2200g weight limit (lightweight is 1100g)
@@ -19,12 +19,13 @@ Since I was the team's mechanical engineer, the biggest changes to the mechanica
  - 4S 2600mAh lipo (previously 3S 1400mAh)
 
 ![Robot CAD](images/cad.png)
-I designed our [robot CAD](https://cad.onshape.com/documents/d3a0178b0f6c32667a12811f/w/e578c707c8a94966e4159e1e/e/2745129e1c60ff319e287fe6?renderMode=0&uiState=6339b5cef4b4937263754cd9) model in Onshape
+I designed our [robot](https://cad.onshape.com/documents/d3a0178b0f6c32667a12811f/w/e578c707c8a94966e4159e1e/e/2745129e1c60ff319e287fe6?renderMode=0&uiState=6339b5cef4b4937263754cd9) in Onshape
 
 Like our lightweight robot, our open robot scores using a solenoid kicker and omnidirectional movement.
 ![Scoring](images/rcj_goal_gif.gif)
 
-Inspired by [Major League teams](https://www.youtube.com/watch?v=yaFfWd6ZHGA) (college-level), we used Maxon's 30W EC45 Flat brushless motors. These motors are very powerful but have a small footprint, and Maxon generously sponsored us through their [Young Engineer's Program](https://drive.tech/en/young-engineers-program). We were not able to control them well with custom motor drivers, however, so we could only use a fraction of their power. In hindsight, we should have bought Maxon's 4-Q ESCON motor drivers instead of trying to design our own.
+Inspired by [Major League teams](https://www.youtube.com/watch?v=yaFfWd6ZHGA) (college-level), we used Maxon's 30W EC45 Flat brushless motors. These motors are very powerful and have a small footprint. Maxon generously sponsored us through their [Young Engineer's Program](https://drive.tech/en/young-engineers-program). Due to limitations of our motor drivers, we could only use a fraction of their power. In hindsight, we should have bought Maxon's 4-Q ESCON motor drivers instead of trying to design our own.
+
 ![Maxon Motors](images/maxon_motors.jpg)
 
 I redesigned the omniwheels to have a 4.5:1 gear reduction. Major league teams typically buy steel internal gears and machine them to fit their wheels, but these gears cost $60 each and I don't have access to precision manufacturing. Even worse, steel gears are heavy and difficult to package compactly. 
@@ -39,8 +40,7 @@ We determine the orientation of the line by adding the vectors of the triggered 
 
 ![Line PCB](images/open_line.png)
 
-
-The open robot has two identical dribblers. For simplicity, I did not include spring suspension in this dribbler design. I experimented with molding silicone sealant for the rollers. Silicone sealant doesn't adhere to soapy water, so I sandwiched the roller between soap-covered negatives. Rollers molded this way were extremely grippy, but extensive iteration and testing demonstrated that silicone sealant was not durable enough. I switched to silicone tube which was much stronger.
+Our robot has two identical dribblers. For simplicity, I did not include spring suspension in this dribbler design. I experimented with molding silicone sealant for the rollers. Silicone sealant doesn't adhere to soapy water, so I sandwiched the roller between soap-covered negatives. Rollers molded this way were extremely grippy, but extensive iteration and testing demonstrated that silicone sealant was not durable enough. I switched to silicone tube which was much stronger.
 
 ![Dribbler](images/rcj_dribbler_gif.gif)
 ![Silicone Mold](images/silicone_mold.jpg)
