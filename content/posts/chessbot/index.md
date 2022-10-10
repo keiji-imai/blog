@@ -6,7 +6,7 @@ showLikes: True
 description: "I'm building a chess bot"
 ---
 
-I want to make a chess board that can move pieces by itself. The pieces would have magnets imbedded in them, and an electromagnet would make them move from beneath the board. 
+I want to make a chess board that can move pieces by itself. The pieces would have magnets embedded in them, and an electromagnet would make them move from beneath the board. 
 
 Think about it. You play a move, and then the board plays the best move possible against you. You can never win. It's utterly hopeless. And when it beats you, it says one of the following voicelines: (do you know where these are from?)
  - "Losing isn't fun. That's why I don't do it."
