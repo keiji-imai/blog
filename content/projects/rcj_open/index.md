@@ -30,7 +30,7 @@ Inspired by [Major League teams](https://www.youtube.com/watch?v=yaFfWd6ZHGA) (c
 
 I redesigned the omniwheels to have a 4.5:1 gear reduction. Major league teams typically buy steel internal gears and machine them to fit their wheels, but these gears cost $60 each and I don't have access to precision manufacturing. Even worse, steel gears are heavy and difficult to package compactly. 
 
-I designed custom aluminum gear which were manufactured via wire EDM instead. Sonic EDM generously manufactured our wheels for free. These gears are lightweight, but the custom gear profile makes them strong. We manufactured the motor shafts to a D shape so that we didn't need set screws for the pinion.
+I designed custom aluminum gear which were manufactured via wire EDM instead. Sonic EDM generously manufactured our gears for free. These gears are lightweight, but the custom gear profile makes them strong. We manufactured the motor shafts to a D shape so that we didn't need set screws for the pinion.
 
 ![Omniwheel](images/rcj_omni.jpg)
 
