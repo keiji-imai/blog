@@ -8,7 +8,7 @@ description: "I'm building a chess bot"
 
 I want to make a chess board that can move pieces by itself. The pieces would have magnets embedded in them, and an electromagnet would make them move from beneath the board. 
 
-Think about it. You play a move, and then the board plays the best move possible against you. You can never win. It's utterly hopeless. And when it beats you, it says, "Looks like I beat you. High five!" Street cred if you know who I'm quoting.
+Think about it. You play a move, and then the board plays the best move possible against you. You can never win. It's utterly hopeless. And when it beats you, it says, "Looks like I beat you. High five!"
 
 Other cool things made possible by a robotic board include playing against people online over-the-board, automatically record the moves of games you play over-the-board, and voice-controlled moves (for example, you could play blindfold chess).
 
@@ -17,7 +17,7 @@ I'm applying to [ProjX](https://projx.mit.edu/) for up to $500 in funding.
 ## Research
 First, I researched what kind of robotic chess boards already exist. They do in fact exist, but they all leave something to be desired. 
 
- - [SquareOff](https://squareoffnow.com/) This product works, but it's expensive and kinda cringe (the pieces are detected by the flexing of the board). 
+ - [SquareOff](https://squareoffnow.com/) This product works, but it's expensive and inconsistent (the pieces are detected by the flexing of the board). 
  - [Regium Chess](https://www.facebook.com/watch/?v=794043774452044) Big kickstarter campaign that was a [complete scam](https://lichess.org/blog/XlE48hEAACIAQv2F/regium-extraordinary-claims-require-extraordinary-evidence)
  - [Phantom](https://www.kickstarter.com/projects/wondersubstance/phantom-the-most-advanced-chess-board-in-the-world) A suspected scam, but they actually built a working prototype
 
