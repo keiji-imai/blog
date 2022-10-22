@@ -1,5 +1,5 @@
 ---
-title: LigerBots FRC 2877
+title: FIRST Robotics
 draft: False
 description: "My high school FRC team"
 ---
