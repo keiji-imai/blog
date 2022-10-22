@@ -8,7 +8,11 @@ In high school, I competed in RoboCupJunior Soccer. My friends and I started Tea
 
 ![Lightweight Robot](images/rcj_v6.jpg)
 
-Team Orion has four members and no mentors other than our parents. As the team's mechanical engineer, I designed, manufactured, and assembled all the mechanical parts of the robot, but I did not make the motors, PCBs, or solenoids. 
+Here is our promo video we made to thank our sponsors:
+
+{{<youtube nJy8fdx0ffE>}}
+
+Team Orion has four members and no mentors. As the team's mechanical engineer, I designed, manufactured, and assembled all the mechanical parts of the robot, but I did not make the motors, PCBs, or solenoids. 
 
 We were the only lightweight division team at the world cup to have a dribbler and kicker. The dribbler gives the ball backspin so the robot can keep control of it while maneuvering.
 
@@ -40,4 +44,6 @@ I printed most parts in carbon-fiber reinforced nylon, which is 30% less dense a
 
 ![CAD](images/cad.png)
 
-For more information about our robot, see our [technical paper](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/LWL_Orion.pdf), our [2021 video submission](https://www.youtube.com/watch?v=EiC6TM8G3RY), and our [2020 sponsor thank you video](https://www.youtube.com/watch?v=nJy8fdx0ffE).
+For more information about our robot, see our [technical paper](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/LWL_Orion.pdf) or our 2021 video submission:
+
+{{<youtube EiC6TM8G3RY>}}

@@ -17,4 +17,4 @@ The drone also records footage with a debugger overlay which displays the color 
 ![Overlay](https://media.giphy.com/media/yilzbCmvF5zGn7Rp9Z/giphy-downsized-large.gif)
 
 For more details, see our presentation video:
-https://www.youtube.com/watch?v=lFV6kygEo7g
+{{<youtube lFV6kygEo7g>}}
