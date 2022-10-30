@@ -1,7 +1,7 @@
 ---
 title: Magnets Carlson
 date: 2022-10-09T18:25:02-04:00
-draft: True
+draft: False
 showLikes: True
 description: "Chess Robot with Personality"
 ---
