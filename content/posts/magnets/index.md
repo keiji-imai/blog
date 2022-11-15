@@ -23,14 +23,4 @@ The motors will be connected by a second belt stage for better packaging. It wil
 ## Money
 We got selected for ProjX funding ($500)! Hopefully we will also get money form the IAP Minigrant. 
 
-I bought some electrical stuff for prototyping:
- - 1x 50N 25*20mm Electromagnet ($15)
- - 1x 40 Pcs Refrigerator Magnets ($12)
- - 1x 12 Pcs Multiplexer ($12)
- - 1x Transistor ($6)
- - 1x Freewheeling Diode ($5)
- - 1x Arduino Uno ($18)
- - 1x Breadboard ($13)
- - 70x Reed Switches ($40)
-
- Hopefully I will be able to make something cool with this soon.
+I bought some electrical stuff for prototyping. Hopefully I will be able to make something cool with this soon.
