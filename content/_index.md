@@ -7,4 +7,4 @@ cascade:
     showComments: true
 ---
 
-I made this blog to write about my past and ongoing projects. I'm currently a freshman at MIT probably majoring in mechanical engineering with a robotics concentration ([2A6](https://meche.mit.edu/education/undergraduate/course-2a/control-instrumentation-robotics)). I'm currently working on a [chess robot](https://kogappa.com/posts/chessbot/). My email is keijii@mit.edu.
+I made this blog to write about my projects. I'm a freshman at MIT studying mechanical engineering ([2A6](https://meche.mit.edu/education/undergraduate/course-2a/control-instrumentation-robotics)). I'm currently working on a [chess robot](https://kogappa.com/posts/chessbot/). Feel free to reach out to me at keijii@mit.edu.
