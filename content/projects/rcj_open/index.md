@@ -1,6 +1,7 @@
 ---
 title: RoboCupJunior Open
 draft: False
+date: 2022-08-30
 description: "Autonomous Soccer Robot for RoboCupJunior Open Division"
 ---
 ![Bangkok](images/rcj_bangkok.png)

@@ -1,6 +1,7 @@
 ---
 title: RoboCupJunior Lightweight
 draft: False
+date: 2021-08-30
 description: "Autonomous Soccer Robot for RoboCupJunior Lightweight Division"
 ---
 

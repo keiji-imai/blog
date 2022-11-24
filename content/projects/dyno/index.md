@@ -1,6 +1,7 @@
 ---
 title: MIT Motorsports Dyno
 draft: False
+date: 2022-11-18
 description: "Designing, machining, and testing a dyno for MIT Motorsports"
 ---
 

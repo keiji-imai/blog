@@ -1,6 +1,7 @@
 ---
 title: FIRST Robotics
 draft: False
+date: 2021-06-01
 description: "My high school FRC team"
 ---
 

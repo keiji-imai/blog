@@ -1,6 +1,7 @@
 ---
 title: MIT BeaverWorks Summer Insitute Final Project
 draft: False
+date: 2021-08-30
 description: "Autonomous quadcopter navigation through hoops"
 ---
 
