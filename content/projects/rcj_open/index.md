@@ -58,3 +58,13 @@ After my print job finished, a "cake" of powder was produced. I excavated parts 
 ![Formlabs](images/formlabs.jpg)
 
 For more information about our robot, see [our poster](https://drive.google.com/file/d/1emEfwXLS5n6g16z6DUGnz8gLUFfxLsoF/view?usp=sharing).
+
+
+<script src="https://utteranc.es/client.js"
+        repo="keiji-imai/blog"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>

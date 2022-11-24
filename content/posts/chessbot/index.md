@@ -43,3 +43,12 @@ After I get the prototype working, I'll add a gantry to move the electromagnet a
 
 ## Clock
 My ultimate goal is to integrate a nice chess clock into the board. This would have clicky switches like the awesome [Chronos clocks](https://www.amazon.com/US-Chess-Federation-Chronos-Digital/dp/B012B9YPC6/ref=sr_1_3) and a touch display. 
+
+<script src="https://utteranc.es/client.js"
+        repo="keiji-imai/blog"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>

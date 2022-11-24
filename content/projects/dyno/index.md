@@ -35,3 +35,12 @@ After practicing welding for a few days I was confident enough to weld the mount
 
 We are also working on building a dyno using old parts from a previous dyno project. Here's my pathetic attempt to exert torque on the wireless torque sensor. 
 ![Torque Sensor](https://media.giphy.com/media/mbjLNL0kCoVY1VAzm6/giphy.gif)
+
+<script src="https://utteranc.es/client.js"
+        repo="keiji-imai/blog"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -38,6 +38,12 @@ I've always built stuff for fun. But if I don't write about my projects, I'm onl
 
 In short, other people's documentation helped me a lot so I'm trying to pay it back a little. If you feel the same way, consider making a blog yourself!
 
-<div class="commentbox"></div>
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>commentBox('5638254850211840-proj', {textColor: '#fff'});</script>
+
+<script src="https://utteranc.es/client.js"
+        repo="keiji-imai/blog"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>

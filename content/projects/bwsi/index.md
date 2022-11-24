@@ -19,3 +19,13 @@ The drone also records footage with a debugger overlay which displays the color 
 
 For more details, see our presentation video:
 {{<youtube lFV6kygEo7g>}}
+
+
+<script src="https://utteranc.es/client.js"
+        repo="keiji-imai/blog"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>

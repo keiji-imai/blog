@@ -24,3 +24,12 @@ The motors will be connected by a second belt stage for better packaging. It wil
 We got selected for ProjX funding ($500)! Hopefully we will also get money form the IAP Minigrant. 
 
 I bought some electrical stuff for prototyping. Hopefully I will be able to make something cool with this soon.
+
+<script src="https://utteranc.es/client.js"
+        repo="keiji-imai/blog"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>

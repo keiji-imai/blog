@@ -48,3 +48,12 @@ I printed most parts in carbon-fiber reinforced nylon, which is 30% less dense a
 For more information about our robot, see our [technical paper](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/LWL_Orion.pdf) or our 2021 video submission:
 
 {{<youtube EiC6TM8G3RY>}}
+
+<script src="https://utteranc.es/client.js"
+        repo="keiji-imai/blog"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
