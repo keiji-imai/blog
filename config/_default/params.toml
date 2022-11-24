@@ -60,7 +60,7 @@ enableCodeCopy = true
   showAuthorsBadges = false 
   showWordCount = true
   showSummary = true
-  sharingLinks = []
+  #sharingLinks = []
 
 [list]
   #showHero = true

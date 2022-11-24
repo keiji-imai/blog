@@ -40,4 +40,4 @@ In short, other people's documentation helped me a lot so I'm trying to pay it b
 
 <div class="commentbox"></div>
 <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>commentBox('my-project-id', {textColor: '#fff'});</script>
+<script>commentBox('5638254850211840-proj', {textColor: '#fff'});</script>

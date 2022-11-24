@@ -39,3 +39,6 @@ Finally, we used buttercream to attach the silicon nitride and electrical contac
 We were very happy with how the final cake turned out. It only took us until 4 am to finish.
 
 ![Cake](images/cake.jpg)
+
+
+{{< chat kogappa >}}
