@@ -1,6 +1,6 @@
 ---
 title: How to Engineer a Cake
-date: 2022-11-22T18:25:02-04:00
+date: 2022-11-22
 draft: False
 showLikes: True
 description: "I help Claudius make a solar cell cake"

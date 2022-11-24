@@ -1,6 +1,6 @@
 ---
 title: Why Blog?
-date: 2022-09-28T18:25:02-04:00
+date: 2022-09-28
 draft: False
 showLikes: True
 description: "3 reasons why I blog"
