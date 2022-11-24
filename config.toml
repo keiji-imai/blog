@@ -1,5 +1,5 @@
 baseURL = 'http://kogappa.com/'
 languageCode = 'en-us'
 title = 'Keiji Imai'
-theme = "temp"
+theme = "blowfish"
 sectionPagesMenu = "main"
