@@ -4,6 +4,8 @@ date: 2022-10-30
 draft: False
 showLikes: True
 description: "Chess Robot with Personality"
+series: ["Mags, Chess Robot"]
+series_order: 2
 ---
 
 As I described in a [previous post](https://kogappa.com/posts/chessbot/), I applied to ProjX for a robotic chessboard project. I'm teaming up with three friends, Claudius, Eric, and Gloria. We're naming the robot Magnets Carlson, or Mags for short. Here are some updates on how things are going.
@@ -24,12 +26,3 @@ The motors will be connected by a second belt stage for better packaging. It wil
 We got selected for ProjX funding ($500)! Hopefully we will also get money form the IAP Minigrant. 
 
 I bought some electrical stuff for prototyping. Hopefully I will be able to make something cool with this soon.
-
-<script src="https://utteranc.es/client.js"
-        repo="keiji-imai/blog"
-        issue-term="pathname"
-        label="Comments"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async>
-</script>

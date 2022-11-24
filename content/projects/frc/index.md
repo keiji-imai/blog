@@ -2,6 +2,7 @@
 title: FIRST Robotics
 draft: False
 date: 2021-06-01
+showViews: true
 description: "My high school FRC team"
 ---
 
@@ -45,12 +46,3 @@ A unique feature of our climb is that it doesn't swing at all. This is because o
 Due to our climber's stability, we never fell, even when our teammates [drove into us](https://clips.twitch.tv/LongHungryToadMrDestructoid-UjjTujn5gISuy5HJ) while we were climbing. 
 
 I documented this mechanism and others extensively in the [LigerBots OpenAlliance Build Thread](https://www.chiefdelphi.com/t/ligerbots-frc-2877-openalliance-build-thread-2022/398824) on chief delphi. I was delighted to hear from one of our teammates at a competition that their climber design was inspired by ours!
-
-<script src="https://utteranc.es/client.js"
-        repo="keiji-imai/blog"
-        issue-term="pathname"
-        label="Comments"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async>
-</script>

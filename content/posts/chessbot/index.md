@@ -4,6 +4,8 @@ date: 2022-10-09
 draft: False
 showLikes: True
 description: "I'm building a chess bot"
+series: ["Mags, Chess Robot"]
+series_order: 1
 ---
 
 I want to make a chess board that can move pieces by itself. The pieces would have magnets embedded in them, and an electromagnet would make them move from beneath the board. 
@@ -43,12 +45,3 @@ After I get the prototype working, I'll add a gantry to move the electromagnet a
 
 ## Clock
 My ultimate goal is to integrate a nice chess clock into the board. This would have clicky switches like the awesome [Chronos clocks](https://www.amazon.com/US-Chess-Federation-Chronos-Digital/dp/B012B9YPC6/ref=sr_1_3) and a touch display. 
-
-<script src="https://utteranc.es/client.js"
-        repo="keiji-imai/blog"
-        issue-term="pathname"
-        label="Comments"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async>
-</script>

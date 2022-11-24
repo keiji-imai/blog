@@ -2,19 +2,23 @@
 title: MIT Motorsports Dyno
 draft: False
 date: 2022-11-18
+showViews: true
 description: "Designing, machining, and testing a dyno for MIT Motorsports"
 ---
-
+## Introduction
 [MIT Motorsports](https://fsae.mit.edu/) builds a formula-one-style racecar every year to compete in [FSAE](https://en.wikipedia.org/wiki/Formula_SAE). One of the big goals for MIT Motorsports this year is moving to four-wheel drive. We developed our own custom gearbox and inverter. To get the power and efficiency curves of the Hawk40 motor in combination with our custom inverter and gearbox, four new members and I are building a dynamometer. 
 
+## CAD
 I learned how to use NX, an industrial software that is powerful but unintuitive. Here's a screenshot of the motor mounts I CADed:
 
 ![Dyno CAD](images/dyno_cad.png)
 
+## Waterjet
 We used the waterjet to cut the plates out of 1/8" steel.
 
 ![Waterjet Plates](images/waterjet_plates.jpg)
 
+## Welding
 Then I learned how to weld. Welding is kind of like soldering, but if you accidentally let the tip touch metal, it gets stuck and you can end up with something like this:
 
 ![Welding Fail](images/welding_fail.jpg)
@@ -33,14 +37,6 @@ After practicing welding for a few days I was confident enough to weld the mount
 
 ![Dyno Mount](images/dyno_mount.jpg)
 
+## Torque Sensor
 We are also working on building a dyno using old parts from a previous dyno project. Here's my pathetic attempt to exert torque on the wireless torque sensor. 
 ![Torque Sensor](https://media.giphy.com/media/mbjLNL0kCoVY1VAzm6/giphy.gif)
-
-<script src="https://utteranc.es/client.js"
-        repo="keiji-imai/blog"
-        issue-term="pathname"
-        label="Comments"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async>
-</script>
