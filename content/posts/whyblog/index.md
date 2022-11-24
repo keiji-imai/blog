@@ -37,3 +37,7 @@ I've always built stuff for fun. But if I don't write about my projects, I'm onl
 ## Conclusion
 
 In short, other people's documentation helped me a lot so I'm trying to pay it back a little. If you feel the same way, consider making a blog yourself!
+
+<div class="commentbox"></div>
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('my-project-id', {textColor: '#fff'});</script>
