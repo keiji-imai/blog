@@ -37,6 +37,9 @@ After practicing welding for a few days I was confident enough to weld the mount
 
 ![Dyno Mount](images/dyno_mount.jpg)
 
+I also made for the Hawk40, which is the motor we will use for the front wheels.
+![Hawk40 Mount](images/hawk40_dyno.jpg)
+
 ## Torque Sensor
-We are also working on building a dyno using old parts from a previous dyno project. Here's my pathetic attempt to exert torque on the wireless torque sensor. 
+My pathetic attempt to exert torque on the wireless torque sensor:
 ![Torque Sensor](https://media.giphy.com/media/mbjLNL0kCoVY1VAzm6/giphy.gif)
