@@ -23,6 +23,6 @@ The motors will be connected by a second belt stage for better packaging. It wil
 ![Cross Section](images/instructables_cross_section.jpg)
 
 ## Money
-We got selected for ProjX funding ($500)! Hopefully we will also get money form the IAP Minigrant. 
+We got selected for ProjX and IAP Minigrant funding (total $1350)! 
 
 I bought some electrical stuff for prototyping. Hopefully I will be able to make something cool with this soon.
