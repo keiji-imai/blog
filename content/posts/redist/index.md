@@ -1,32 +1,48 @@
 ---
 title: Redist
 date: 2022-12-23
-draft: True
+draft: False
 showLikes: True
 description: "Building a redistricting puzzle game"
 ---
 
-I built a redistricting puzzle game as a Christmas present for my dad. I lasercut all the parts out of acrylic with help from my friend Gloria and Claudius helped me glue the pieces together.
-
-## Context
-My dad made a statistical method for drawing fair congressional district maps and testified as an expert witness in several gerrymandering court cases. He demonstrated that the existing maps were extremely gerrymandered by comparing them to thousands of algorithmically generated maps. The Ohio case went to the Supreme Court, so I decided to make a puzzle in the shape of Ohio.
-
-## The Game
-
-
-
-
+My dad developed a [cool statistical method](https://news.harvard.edu/gazette/story/2022/11/an-algorithm-to-detect-gerrymandering/) and used it to prove that politicians discriminated through gerrymandering in several court cases. So as a Christmas gift, I made him a gerrymandering puzzle. I lasercut the parts out of acrylic with help from Gloria, and Claudius helped me glue the box together.
 
 ## The Puzzle
+![Green](images/redist_green.jpg)
+Each piece is a county of Ohio. The puzzle is a lot harder than it looks. There are four complete sets of pieces in different colors. The base is inscribed with lines so that the puzzle isn't pure hell.
 
-The puzzle is shaped in the state of Ohio. Each piece is a county. There are 88 counties, with many similar features, so the puzzle is surprisingly difficult. There are four sets of pieces in different colors. The base is inscribed with the borderlines not to make the puzzle easy, but to make it possible. 
+![lasercutting](images/lasercutting_hq.gif)
+We used an svg of the Ohio counties from Wikipedia to lasercut the pieces. We made the base by lasercutting two acrylic plates and gluing them together. The super glue dried in literally half a second. This made the two plates being slightly misaligned. Even worse, the superglue left a nasty smear in between the plates. 
 
-To lasercut the pieces, we used this svg of the Ohio counties.
+![base](images/redist_base.jpg)
 
-We made the base by lasercutting two acrylic plates and gluing them together. To my surprise, the super glue dried in half a second. This resulted in the two plates being slightly misaligned. Worse, the superglue left a smear in between the plates. If I were making another base, I'd use opaque acrylic for the top plate and be much more careful with alignment.
+Lessons learned:
+ - Engraving is slow (the base took 1.5 hours)
+ - Use opaque acrylic with superglue
+ - Superglue dries super quick between large flat surfaces. Align carefully.
 
 ## The Box
 
-I decided to make the box on a whim. At first I used plywood from a scrap pile. It was really bad. The first cut didn't go all the way through, so I had to redo the cut, which left a really bad surface finish on the edges. The pieces didn't even fit.
+I first tried making the box out of scrap plywood. It was ugly and the pieces didn't fit.
+![Bad Box](images/redist_badbox.jpg)
+I made a new box using acrylic. It's bigger and the corners are differently colored to match the pieces. "redist" is engraved on the lid. We superglued opposite corners first to make the box as square as we could because the tolerances were pretty loose. I'm really happy with how it came out. 
 
-I made a new box using acrylic. It's bigger and the four corners are colored to match the pieces. I'm really happy with how pretty it came out. 
+![Redist Box](images/redist_box.jpg)
+
+## The Game
+
+There are a few ways you can play:
+
+VS: Each player gets a color. Everyone tries to play as many pieces as they can. The person who placed the most pieces when the puzzle is complete wins.
+![Claudius Sweep](images/redist_comp.jpg)
+The three of us got demolished by Claudius (green).
+
+Coop: The Four Color Theorem says that any map can be colored with only four colors such that no two adjacent regions have the same color. Fill out the puzzle so that no two adjacent pieces have the same color.
+
+![Four Color](images/redist_fourcolor.jpg)
+
+This took my dad, my sister, and I over an hour. To satisfy the four color rule we had to redo entire sections of the map. The best strategy is to figure out which piece you need *and then* look for it. If you choose a piece and then try to find its spot it'll take forever. 
+
+## Conclusion
+Making custom puzzles is pretty easy and fun. I like making my own presents. There's something special about seeing something I made giving joy to others.  
