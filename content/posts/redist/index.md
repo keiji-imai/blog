@@ -1,6 +1,6 @@
 ---
 title: Redist
-date: 2022-12-23
+date: 2023-01-03
 draft: False
 showLikes: True
 description: "Building a redistricting puzzle game"
