@@ -26,7 +26,9 @@ We wanted to manufacture something that our students designed. At first our plan
 
 The 3D printed coasters are easy to CAD and we used gyroid infill to make it look really cool.
 
-Here's our [lesson plan](https://docs.google.com/document/d/1XVa7ItdFy6fospJ-ox6wwEgAug1G8FUFJRDCtE_za9s/edit?usp=sharing) and our [slides](https://docs.google.com/presentation/d/1WpeDzfjWGMT3YGSF8aeZ9FFo6ZFaLheqv-Ro-2Sl0sQ/edit?usp=sharing). Claudius made sure that we had the very best CNC machining and 3D printing montages in our slides. We stayed up until 4 the morning of the class making these slides because both Claudius and I care too much about aesthetics (also because we procrastinated until the day of).
+Here's our [lesson plan](https://docs.google.com/document/d/1XVa7ItdFy6fospJ-ox6wwEgAug1G8FUFJRDCtE_za9s/edit?usp=sharing) and our [slides](https://docs.google.com/presentation/d/1WpeDzfjWGMT3YGSF8aeZ9FFo6ZFaLheqv-Ro-2Sl0sQ/edit?usp=sharing). 
+
+The slides cover manufacturing methods and how to design for 3D printing. Check them out! We have super satisfying manufacturing montages.
 
 ## Teaching
 

@@ -7,6 +7,7 @@ description: "First design review for Mags"
 series: ["Mags, Chess Robot"]
 series_order: 3
 ---
+If you haven't read the previous posts on this project, the tldr is that I'm building a chess robot named Mags that moves pieces around using an electromagnet underneath the board.
 
 My friends and I finally finished the first CAD iteration of Mags.
 
