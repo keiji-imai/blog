@@ -4,7 +4,7 @@ date: 2022-12-25
 draft: False
 showLikes: True
 showViews: true
-description: "First design review for Mags"
+description: "Summary of Mags the chess robot"
 series: ["Mags, Chess Robot"]
 series_order: 0
 ---
