@@ -3,6 +3,7 @@ title: Mags the Chess Robot
 date: 2022-12-25
 draft: False
 showLikes: True
+showViews: true
 description: "First design review for Mags"
 series: ["Mags, Chess Robot"]
 series_order: 0
