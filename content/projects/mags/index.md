@@ -21,8 +21,11 @@ This is our [CAD model](https://cad.onshape.com/documents/2f3e28006e5b2cd6cd052b
 
 Mags has a CoreXY gantry similar to high performance 3D printers. Two stepper motors drive belts in tandem to control the position of the electromagnet. These belts can be tensioned at the carriage such that they straighten the x-axis. By using linear rails and 3D printed parts we were able to make the board just 40 mm thick.
 
-![Prototype](images/pulley_block.jpg)
-We are beginning to assemble parts. This assembly of 3D printed parts connects the x-axis to the y-axis and holds two idler pulleys. 
-
 ![Path Planning](images/path_planning.png)
-We are also writing [code](https://github.com/cttdev/mags). This screenshot shows off our path planning. We used the A* algorithm to find the shortest path to remove captured pieces from the board without collisions.
+We are writing [code](https://github.com/cttdev/mags). This screenshot shows off our path planning. We used the A* algorithm to find the shortest path to remove captured pieces from the board without collisions.
+
+We assembled the gantry and ran the motors. They are fast!
+{{<youtube V1EFO8Y7cPw>}}
+
+We tested the electromagnet under the carbon fiber board and it worked really well. We will waterjet the carbon fiber and add spacers for the final assembly.
+{{<youtube uqxEVlV_M6c>}}
