@@ -29,3 +29,7 @@ We assembled the gantry and ran the motors. They are fast!
 
 We tested the electromagnet under the carbon fiber board and it worked really well. We will waterjet the carbon fiber and add spacers for the final assembly.
 {{<youtube uqxEVlV_M6c>}}
+
+This is our first test with the full software stack. The only missing programming component is piece detection.
+
+{{<youtube ZzmiWle_aWA>}}
