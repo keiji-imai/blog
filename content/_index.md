@@ -1,5 +1,5 @@
 ---
-title: "kogappa"
+title: "Keiji Imai"
 date: 2022-09-28T18:25:02-04:00
 description: "Keiji Imai's website"
 draft: false
@@ -7,4 +7,4 @@ cascade:
     showComments: true
 ---
 
-I made this blog to write about my projects. I'm a freshman at MIT studying mechanical engineering ([2A6](https://meche.mit.edu/education/undergraduate/course-2a/control-instrumentation-robotics)). I'm currently working on a [chess robot](https://kogappa.com/posts/chessbot/).
+Hi. I'm Keiji, a freshman at MIT studying mechanical engineering. I'm a member of MIT Motorsports and I love building robots. Recently I built a [chess robot](kogappa.com/projects/mags) and in the past I've built [autonomous soccer robots](kogappa.com/projects/rcj_open) and [drones](kogappa.com/projects/bwsi).

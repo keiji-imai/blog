@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["projects"]
 # robots = ""
 
 [header]
@@ -26,11 +26,11 @@ enableCodeCopy = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "img/totality.jpg" # used in: hero, and card
+  layout = "card" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/portrait.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 20
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = true
   cardViewScreenWidth = false

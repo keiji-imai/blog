@@ -58,6 +58,6 @@ dateFormat = "2 January 2006"
   #   { twitch = "https://twitch.tv/username" },
      { twitter = "https://twitter.com/imai_keiji" },
   #   { whatsapp = "https://wa.me/phone-number" },
-  #   { youtube = "https://youtube.com/username" },
+     { youtube = "https://www.youtube.com/channel/UC0vttABoV8W7xOJ7s0tE5qQ" },
   #   { ko-fi = "https://ko-fi.com/username" },
    ]
