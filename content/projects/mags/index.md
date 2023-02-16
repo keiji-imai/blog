@@ -43,7 +43,7 @@ We waterjet the carbon fiber board:
 ## Electrical
 ![underside](images/mags_underside.jpg)
 
-Our board is like a keyboard. We used reed switches to detect the magnetic fields of the chess pieces. By wiring them up in an input matrix, we are able to sample all 64 squares with just 16 pins. Wiring this up took so long. I had to do it by hand because I ran out of time to design a PCB.
+Our board is like a keyboard. We used reed switches to detect the magnetic fields of the chess pieces. By wiring them up in an input matrix, we are able to sample all 64 squares with just 16 pins. I had to wire it up by hand because I ran out of time to design a PCB. In hindsight I really should have designed a PCB.
 
 ![Input Matrix](images/input_matrix.jpg)
 
