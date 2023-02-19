@@ -27,7 +27,7 @@ You can view our CAD [here](https://cad.onshape.com/documents/2f3e28006e5b2cd6cd
 
 ![CAD](images/mags_gantry.png)
 
-Mags is like a 3D printer. Instead of a hotend, we have an electromagnet. We designed a CoreXY gantry that is only 30mm tall so that the robot could be as thin as possible. When assembling the frame and gantry, we had to make everything perfectly square and parallel, or the linear rails would not slide smoothly. I described this process [here](kogappa.com/posts/mags_assembly).
+Mags is like a 3D printer. Instead of a hotend, we have an electromagnet. We designed a CoreXY gantry that is only 30mm tall so that the robot could be as thin as possible. When assembling the frame and gantry, we had to make everything perfectly square and parallel, or the linear rails would not slide smoothly. I described this process [here](https://kogappa.com/posts/mags_assembly).
 
 The motors are fast!
 
@@ -56,11 +56,11 @@ The electromagnet is controlled with a power transistor and a flyback diode. The
 You can look at our code [here](https://github.com/cttdev/mags). It's mostly written in python. We used the A* algorithm to find the shortest path to remove captured pieces from the board without collisions, as shown in the screenshot above. The RasPi was too slow, so we ended up doing all the compute on a laptop which updates the display and sends g-code to Klipper via websockets.
 
 ## Money
-We got $500 of funding from [ProjX](projx.mit.edu) and $850 of funding from the MIT IAP Minigrant. Here's our [budget spreadsheet](https://docs.google.com/spreadsheets/d/1yqGCbEJ-lgLs7kG5b4U-4LM2qvh067T2bJkhiu7EdD8/edit?usp=sharing). 
+We got $500 of funding from [ProjX](https://projx.mit.edu) and $850 of funding from the MIT IAP Minigrant. Here's our [budget spreadsheet](https://docs.google.com/spreadsheets/d/1yqGCbEJ-lgLs7kG5b4U-4LM2qvh067T2bJkhiu7EdD8/edit?usp=sharing). 
 
 ## Conclusion
 This project was really fun. I learned a lot of things, but most importantly I learned:
- - [Assembly is hard](kogappa.com/posts/mags_assembly) (if anything isn't assembled properly, the linear rails will bind)
+ - [Assembly is hard](https://kogappa.com/posts/mags_assembly) (if anything isn't assembled properly, the linear rails will bind)
  - Motivation is the bottleneck (most of our work was done as close as possible to the career fair demo)
  - Do what needs to be done first. Making this project work required focusing on the most urgent things, from manual labor to code.
  
