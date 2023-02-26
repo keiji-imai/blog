@@ -4,6 +4,8 @@ draft: False
 date: 2022-11-18
 showViews: true
 description: "Designing, machining, and testing a dyno for MIT Motorsports"
+series: ["MIT Motorsports"]
+series_order: 1
 ---
 ## Introduction
 [MIT Motorsports](https://fsae.mit.edu/) builds a formula-one-style racecar every year to compete in [FSAE](https://en.wikipedia.org/wiki/Formula_SAE). One of the big goals for MIT Motorsports this year is moving to four-wheel drive. We developed our own custom gearbox and inverter. To get the power and efficiency curves of the Hawk40 motor in combination with our custom inverter and gearbox, four new members and I are building a dynamometer. 
