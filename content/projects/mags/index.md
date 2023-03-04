@@ -1,10 +1,8 @@
 ---
-title: Mags the Chess Robot
+title: Mags
 date: 2023-02-12
-draft: False
-showLikes: True
-showViews: true
-description: "Summary of Mags the chess robot"
+description: "An unbeatable chess robot"
+summary: "An unbeatable chess robot"
 series: ["Mags, Chess Robot"]
 series_order: 0
 ---

@@ -2,8 +2,8 @@
 Title: Teaching a Splash Class
 date: 2023-01-03
 draft: False
-showLikes: True
-description: "Teaching CAD to high schoolers"
+description: "Teaching CAD in 3 hours"
+summary: "Teaching CAD in 3 hours"
 ---
 
 Every year, MIT students run a really cool event called [Splash](https://esp.mit.edu/learn/Splash/index.html). In one weekend, 2000 high schoolers come to MIT, where they choose from 500 classes taught by 400 college students in the area. Some classes from this year were:

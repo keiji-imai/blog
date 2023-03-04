@@ -2,6 +2,8 @@
 title: On RoboCupJunior
 date: 2022-09-28T18:25:02-04:00
 draft: true
+description: "The best high school robotics competition you've never heard of"
+summary: "The best high school robotics competition you've never heard of"
 ---
 You probably haven't heard of RoboCupJunior (RCJ) before. This makes me sad. It's a super cool high school robotics competition. Let me explain how it works:
 ## Rules:

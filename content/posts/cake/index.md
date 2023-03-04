@@ -2,8 +2,8 @@
 title: How to Engineer a Cake
 date: 2022-11-22
 draft: False
-showLikes: True
-description: "I help Claudius make a solar cell cake"
+description: "Precision cake manufacturing"
+summary: "Precision cake manufacturing"
 ---
 
 ## Step 1: CAD

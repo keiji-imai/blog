@@ -2,8 +2,8 @@
 title: Redist
 date: 2023-01-03
 draft: False
-showLikes: True
-description: "Building a redistricting puzzle game"
+description: "A redistricting puzzle game"
+summary: "A redistricting puzzle game"
 ---
 
 My dad developed a [cool statistical method](https://news.harvard.edu/gazette/story/2022/11/an-algorithm-to-detect-gerrymandering/) and used it to prove that politicians discriminated through gerrymandering in several court cases. So as a Christmas gift, I made him a gerrymandering puzzle. I lasercut the parts out of acrylic with help from Gloria, and Claudius helped me glue the box together.

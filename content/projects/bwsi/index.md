@@ -1,9 +1,9 @@
 ---
-title: MIT BeaverWorks Summer Insitute Final Project
+title: Flying through Hoops Autonomously
 draft: False
 date: 2021-08-30
-showViews: true
 description: "Autonomous quadcopter navigation through hoops"
+summary: "Navigating an obstacle course with OpenCV"
 ---
 
 ![Missing Propellers](images/missing_props_prize.jpg)

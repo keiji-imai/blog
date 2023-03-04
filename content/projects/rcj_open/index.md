@@ -1,9 +1,8 @@
 ---
 title: RoboCupJunior Open
-draft: False
-showViews: true
 date: 2022-08-30
-description: "Autonomous Soccer Robot for RoboCupJunior Open Division"
+description: "Autonomous soccer robot with custom gearbox and 360 vision"
+summary: "Autonomous soccer robot with custom gearbox and 360 vision"
 series: ["RoboCupJunior"]
 series_order: 1
 ---

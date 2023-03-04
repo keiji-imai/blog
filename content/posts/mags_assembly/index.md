@@ -2,10 +2,10 @@
 title: Mags Assembly
 date: 2023-01-28
 draft: False
-showLikes: True
-description: "Assembly of Mags"
+description: "I used to like assembling things."
+summary: "I used to like assembling things."
 series: ["Mags, Chess Robot"]
-series_order: 4
+series_order: 3
 ---
 
 ## Introduction

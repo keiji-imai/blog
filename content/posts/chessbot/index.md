@@ -2,8 +2,8 @@
 title: Chess Bot
 date: 2022-10-09
 draft: False
-showLikes: True
-description: "I'm building a chess bot"
+description: "What if your chess board could roast you"
+summary: "What if your chess board could roast you"
 series: ["Mags, Chess Robot"]
 series_order: 1
 ---

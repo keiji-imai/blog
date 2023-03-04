@@ -2,8 +2,8 @@
 title: Why Blog?
 date: 2022-09-28
 draft: False
-showLikes: True
-description: "3 reasons why I blog"
+description: "3 reasons why this website exists"
+summary: "Three reasons why this website exists"
 ---
 
 

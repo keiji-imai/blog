@@ -2,8 +2,8 @@
 title: FIRST Robotics
 draft: False
 date: 2021-06-01
-showViews: true
-description: "My high school FRC team"
+description: "Building 125 lb robots"
+summary: "Building 125 lb robots"
 ---
 
 # LigerBots 

@@ -1,9 +1,9 @@
 ---
-title: MIT Motorsports Dyno
+title: Dyno
 draft: False
 date: 2022-11-18
-showViews: true
-description: "Designing, machining, and testing a dyno for MIT Motorsports"
+description: "Characterizing a custom gearbox and inverter for MIT Motorsports"
+summary: "Characterizing a motor and custom inverter for MIT Motorsports"
 series: ["MIT Motorsports"]
 series_order: 1
 ---
@@ -45,3 +45,5 @@ I also made for the Hawk40, which is the motor we will use for the front wheels.
 ## Torque Sensor
 My pathetic attempt to exert torque on the wireless torque sensor:
 ![Torque Sensor](https://media.giphy.com/media/mbjLNL0kCoVY1VAzm6/giphy.gif)
+
+We haven't been able to run the dyno yet because of electrical roadblocks, but we should have it running sometime in March.

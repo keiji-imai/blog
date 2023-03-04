@@ -2,10 +2,10 @@
 title: Mags Design Review
 date: 2022-12-25
 draft: False
-showLikes: True
-description: "First design review for Mags"
+description: "How I designed a chess robot"
+summary: "How I designed a chess robot"
 series: ["Mags, Chess Robot"]
-series_order: 3
+series_order: 2
 ---
 If you haven't read the previous posts on this project, the tldr is that I'm building a chess robot named Mags that moves pieces around using an electromagnet underneath the board.
 

@@ -1,9 +1,9 @@
 ---
-title: Watercooled Battery Coldplates
+title: Machining Coldplates
 date: 2023-02-26
 draft: False
-showLikes: True
-description: "Machining watercooled battery cold plates for MIT Motorsports"
+description: "I used to like machining."
+summary: "Haas go brrr"
 series: ["MIT Motorsports"]
 series_order: 2
 ---

@@ -1,9 +1,8 @@
 ---
 title: RoboCupJunior Lightweight
-draft: False
 date: 2021-08-30
-showViews: true
-description: "Autonomous Soccer Robot for RoboCupJunior Lightweight Division"
+description: "Playing soccer with robots, autonomously"
+summary: "Playing soccer with robots, autonomously"
 series: ["RoboCupJunior"]
 series_order: 1
 ---
