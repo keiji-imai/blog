@@ -7,4 +7,4 @@ cascade:
     showComments: true
 ---
 
-Hi. I'm Keiji, a freshman at MIT studying mechanical engineering. I'm a member of MIT Motorsports and I love building robots. Recently I built a [chess robot](kogappa.com/projects/mags) and in the past I've built [autonomous soccer robots](kogappa.com/projects/rcj_open) and [drones](kogappa.com/projects/bwsi). Feel free to reach out to me at keijii@mit.edu.
+Hi. I'm Keiji, a freshman at MIT studying mechanical engineering. I'm a member of MIT Motorsports and I love building robots. Recently I built a [chess robot](https://kogappa.com/projects/mags) and in the past I've built [autonomous soccer robots](https://kogappa.com/projects/rcj_open) and [drones](https://kogappa.com/projects/bwsi). Feel free to reach out to me at keijii@mit.edu.
