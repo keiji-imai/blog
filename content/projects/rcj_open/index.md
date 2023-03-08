@@ -26,7 +26,7 @@ Since I was the team's mechanical engineer, the biggest changes to the mechanica
 
 ## CAD
 ![Robot CAD](images/cad.png)
-I designed our [robot](https://cad.onshape.com/documents/d3a0178b0f6c32667a12811f/w/e578c707c8a94966e4159e1e/e/2745129e1c60ff319e287fe6?renderMode=0&uiState=6339b5cef4b4937263754cd9) in Onshape
+I designed our robot in Onshape. You can view the CAD [here](https://cad.onshape.com/documents/d3a0178b0f6c32667a12811f/w/e578c707c8a94966e4159e1e/e/2745129e1c60ff319e287fe6?renderMode=0&uiState=6339b5cef4b4937263754cd9).
 
 ## Scoring
 Like our lightweight robot, our open robot scores using a solenoid kicker and omnidirectional movement.
@@ -38,11 +38,13 @@ Inspired by [Major League teams](https://www.youtube.com/watch?v=yaFfWd6ZHGA) (c
 ![Maxon Motors](images/maxon_motors.jpg)
 
 ## Omniwheels
-I redesigned the omniwheels to have a 4.5:1 gear reduction. Major league teams typically buy steel internal gears and machine them to fit their wheels, but these gears cost $60 each and I don't have access to precision manufacturing. Even worse, steel gears are heavy and difficult to package compactly. 
+I redesigned the omniwheels to have a 4.5:1 gear reduction. Major league teams typically buy steel internal gears and machine them to fit their wheels, but these gears cost $60 each and I don't have access to CNC machines. Additionally, steel gears are heavy and take up a lot of space. 
 
-I designed custom aluminum gear which were manufactured via wire EDM instead. Sonic EDM generously manufactured our gears for free. These gears are lightweight, but the custom gear profile makes them strong. We manufactured the motor shafts to a D shape so that we didn't need set screws for the pinion.
+I designed custom aluminum gears which were manufactured via wire EDM instead. Sonic EDM generously manufactured our gears for free. These gears are very light (21 grams) and their custom gear profile makes the teeth stronger. We filed the motor shafts to a D shape so that we wouldn't need set screws to attach the gear.
 
 ![Omniwheel](images/rcj_omni.jpg)
+
+![Omni CAD](images/omni_cad.png)
 
 ## Line Detection
 Robots that go outside of the white lines on the field are removed from play. In previous years, we have had a ring of line sensors to detect the line. In 2022, I made the line PCB go around the perimeter of the robot so that we would see the line as soon as possible. This allows our robots to reach outside of the line while keeping a part of our robot inside bounds. 
@@ -55,6 +57,9 @@ We determine the orientation of the line by adding the vectors of the triggered 
 Our robot has two identical dribblers. For simplicity, I did not include spring suspension in this dribbler design. I experimented with molding silicone sealant for the rollers. Silicone sealant doesn't adhere to soapy water, so I sandwiched the roller between soap-covered negatives. Rollers molded this way were extremely grippy, but extensive iteration and testing demonstrated that silicone sealant was not durable enough. I switched to silicone tube which was much stronger.
 
 ![Dribbler](images/rcj_dribbler_gif.gif)
+
+![Curve shot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIzN2Q3ODU0NGJlZjg5ZGQxNWFhNTVjMGNhODdlMjdhNGQ3ODU4NiZjdD1n/RQljIm0SG3K75ZcS21/giphy.gif)
+
 ![Silicone Mold](images/silicone_mold.jpg)
 
 ## 3D Printing

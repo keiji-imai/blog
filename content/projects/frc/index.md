@@ -2,8 +2,8 @@
 title: FIRST Robotics
 draft: False
 date: 2021-06-01
-description: "Building 125 lb robots"
-summary: "Building 125 lb robots"
+description: "Building a 125 lb robot that can climb monkey bars"
+summary: "Building a 125 lb robot that can climb monkey bars"
 ---
 
 # LigerBots 
@@ -35,9 +35,13 @@ This offseason project was so successful that we used chain-in-tube for the 2022
 
 ## 2022 Climber
 
+![Climb](featured.jpg)
 In 2022, I led the climbing mechanism team. I helped new members CAD components that were critical to the success of the robot. The robot climbs three monkey bars using two telescoping hooks and two pivoting hooks. 
 
-![Test Climb](https://media.giphy.com/media/7lGoCORpG9k05MqQxb/giphy.gif)
+![Climber Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQzMGExNDBhNjA5Y2M0Y2MxZGIyNmU2MjRmNzJiMWIzZmZkMjkxOSZjdD1n/1gu9E8hGepu4cbYwjv/giphy-downsized-large.gif)
+
+Photo of the climber gearbox before assembly
+![Climber Gearbox](images/frc_climber_gearbox.jpg)
 
 A unique feature of our climb is that it doesn't swing at all. This is because our robot holds onto both bars until the center of gravity is under the higher bar. As illustrated below, we designed the arms to bring the center of gravity 4" past the bar, ensuring that the pivoting arms come off the previous bar naturally.
 
