@@ -1,8 +1,8 @@
 ---
 title: RoboCupJunior Lightweight
 date: 2021-08-30
-description: "Playing soccer with robots, autonomously"
-summary: "Playing soccer with robots, autonomously"
+description: "Autonomous soccer robot with dribbler and kicker"
+summary: "Autonomous soccer robot with dribbler and kicker"
 series: ["RoboCupJunior"]
 series_order: 1
 ---

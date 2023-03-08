@@ -1,9 +1,9 @@
 ---
-title: Flying through Hoops Autonomously
+title: MIT BeaverWorks
 draft: False
 date: 2021-08-30
-description: "Autonomous quadcopter navigation through hoops"
-summary: "Navigating an obstacle course with OpenCV"
+description: "Autonomously navigating an obstacle course with a quadcopter and OpenCV"
+summary: "Autonomously navigating an obstacle course with a quadcopter and OpenCV"
 ---
 
 ![Missing Propellers](images/missing_props_prize.jpg)
