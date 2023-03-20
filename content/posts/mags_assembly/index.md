@@ -45,7 +45,7 @@ Step 2 is tricky because it's easy to overshoot. You can tell if it's square by 
 
 ## Gantry
 
-The square frame only guarantees that the linear rails will be parallel in one axis. When we assemble the rails we need to make sure that the other two axes are also parallel. 
+The square frame only guarantees that the linear rails will be parallel in one axis. When we assemble the rails we need to make sure that the the other axes are aligned.
 
 ### Y-Axis Assembly
 1. Use aligners to straighten one rail and tighten it completely

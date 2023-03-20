@@ -16,18 +16,18 @@ If you want to take a closer look, check out our CAD. Here's the [Onshape link](
 ## Design Objectives
 I'll begin with our overarching objectives. 
 
-I want to build something better than what already exists. [Existing robotic chess boards](https://squareoffnow.com/product/gks) are:
- - **Too jank**: Using touch sensors to detect moves is as stupid as it sounds. Mags will use magnetic piece detection.
- - **Too thick**: They are at least 80mm thick, which is ugly and makes playing uncomfortable. Mags will be 40mm thick.
- - **Too ugly**: They try to look like a normal chess set with wood pieces and a boxy chassis. But a chess robot shouldn't look traditional. Mags will look like a modern robot. 
- - **Too slow**: I don't want to wait five seconds for the piece to move across the board. Mags will be quick.
- - **Too boring**: Playing chess against a robot should be fun. It should have personality. Mags could offer takebacks and advice in easy mode, and roast you in hustler mode.
+I want to build something better than what already exists. Some issues with [existing robotic chess boards](https://squareoffnow.com/product/gks) are:
+ - **Piece detection**: Magnetic piece detection is invisible and more reliable than touch sensors used by some boards
+ - **Compactness**: Robotic chessboards I've seen are at least 80mm thick. Mags should be thin.
+ - **Aesthetics**: Most robotic chessboards look like a normal chess set. But I want Mags should look more modern. 
+ - **Speed**: I like things that move fast. Mags should be quick.
+ - **Personality**: Playing chess against a robot should be fun. Mags could offer takebacks and advice in easy mode, and roast you in hustler mode.
 
 Next I'll talk about the design choices that address these issues. 
 
 ## Exterior
 ![Mags](images/mags_cad.png)
-Mags looks very different from other robotic boards. Here's why: 
+Mags looks very different from other robotic boards:
  - **Flipped motors**: Reduces thickness to 40 mm and gives us space for bigger motors.
  - **Touchscreen**: Gives Mags personality. You can request takebacks and Mags can tell you how bad your moves are.
  - **Carbon fiber board**: Way cooler (and stiffer) than wood veneer. The squares will be on a vinyl sheet, which helps keep the playing surface flat.
@@ -84,5 +84,3 @@ On the bottom layer, we have more delrin spacers and four 0.8x100x400mm PCBs. Th
 ## Summary
 
 We've now designed a cool chess robot, but actually building it will be hard. I'll order parts by the beginning of IAP (MIT's january term) so that we can hit the ground running with manufacturing and assembly. 
-
-Please leave a comment or reach out to me if you have any suggestions or questions!
