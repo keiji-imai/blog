@@ -2,7 +2,7 @@
 title: Why Blog?
 date: 2022-09-28
 draft: False
-description: "3 reasons why this website exists"
+description: "Three reasons why this website exists"
 summary: "Three reasons why this website exists"
 ---
 
