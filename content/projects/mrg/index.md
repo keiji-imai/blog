@@ -18,4 +18,4 @@ I installed Ubuntu 18.04 on a laptop and setup ROS melodic and MoveIt to control
 
 I sent the data from the Vectornav 100S IMU to rvis with this [vectornav driver](https://github.com/dawonn/vectornav) and [imu_tools](https://github.com/CCNYRoboticsLab/imu_tools). The Vectornav 100 series doesn't have built-in odometry so I will have to use another package to handle that.
 
-![IMU](images/imu_test.gif)
+![IMU](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBiNzMyYzZlMmZmZmRlNjRmZTc3YTM4NTVkMTQwYTAxNWMyZWM1NiZjdD1n/jMMHcFw6jFR8zcQ9Fg/giphy.gif)
