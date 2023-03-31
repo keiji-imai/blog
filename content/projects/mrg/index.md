@@ -13,5 +13,9 @@ These are the IMUs I am using.
 This is my 6-axis robot, who I've named Armin.
 ![Armin](images/armin.jpg)
 
-I installed Ubuntu 18.04 on a laptop and setup ROS melodic and MoveIt to control the arm. Armin's got moves!
+I installed Ubuntu 18.04 on a laptop and setup ROS melodic and MoveIt to control the arm. In this video I use rvis to move the arm around. Sometimes it generates twisty paths to avoid [singularities](https://www.mecademic.com/en/what-are-singularities-in-a-six-axis-robot-arm).
 {{<youtube US2L-SOqrEw>}}
+
+I sent the data from the Vectornav 100S IMU to rvis with this [vectornav driver](https://github.com/dawonn/vectornav) and [imu_tools](https://github.com/CCNYRoboticsLab/imu_tools). The Vectornav 100 series doesn't have built-in odometry so I will have to use another package to handle that.
+
+![IMU](images/imu_test.gif)
