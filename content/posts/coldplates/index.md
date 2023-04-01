@@ -54,3 +54,9 @@ We made four coldplates in total.
 The water will come in through connectors that are threaded into these cylindrical parts that will be brazed to the coldplate.
 ![Threads](images/coldplate_threads.jpg)
 
+This is what they looked like after being brazed.
+![brazed](images/brazed_coldplates.jpg)
+![coldplates_top](images/coldplates_top.jpg)
+
+The inside of the battery looks like this. Water is cooled by radiators and pumped through the tubes which lead to channels inside the coldplates underneath the battery modules. 
+![battery](images/battery_internals.jpg)

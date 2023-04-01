@@ -6,13 +6,13 @@ description: "Things that I wish I had known"
 summary: "Things that I wish I had known"
 ---
 
-Since coming to MIT, I've learned a lot of things I wish I knew in high school. I'll try to summarize the most important things. But first, I strongly recommend you read [Paul Graham's essay](http://paulgraham.com/hs.html) about the same topic. It's really good. 
+People have given me advice that has changed my life. Here's my advice for high school students. But first, I strongly recommend you read [Paul Graham's essay](http://paulgraham.com/hs.html) about the same topic. It's really good. 
 
 ## Motivation is the bottleneck
 
 When I was in high school, my excuse for not doing important things was "I don't have time" or "I'm not smart enough" or "I don't have the resources". I told myself that it wasn't my fault.
 
-I was wrong. I did have the time. I was smart enough. And I did have the resources. What I lacked was motivation. If I had *really* wanted to learn how to solve differential equations or build a CNC machine, I totally could have. At MIT I've met people who built [walking quadrupeds](https://www.youtube.com/watch?v=Sht5Nenk3Dg), [nuclear fusors](https://www.anhadsawhney.com/#/nuclear-fusor/), and functional jet engines in high school. These people aren't geniuses. They just love what they do and work really hard at it. It is insane how much you can do if you set your mind to it. So don't blame things outside of your control until you have done absolutely everything you can.
+I was wrong. I did have the time. I was smart enough. And I did have the resources. What I lacked was motivation. If I had *really* wanted to learn how to solve differential equations or build a CNC machine, I totally could have. At MIT I've met people who built [walking quadrupeds](https://www.youtube.com/watch?v=Sht5Nenk3Dg), [nuclear fusors](https://www.anhadsawhney.com/#/nuclear-fusor/), and functional jet engines in high school. These people aren't geniuses. They just love what they do and work really hard at it. It is insane how much you can do if you set your mind to it. So don't you shouldn't blame things outside of your control.
 
 But how does one find motivation to work hard? There are two approaches:
 1. Brute force:
@@ -32,7 +32,7 @@ If you don't know what you are passionate about, try joining clubs or teams that
 
 High school classes suck. Sitting in a classroom bored all day might make you feel like your time isn't worth a whole lot. But the truth is, your time is super valuable. There are so many incredible things you can do with your time.
 
-The internet is full of world-class educational resources if you just know where to look. Hopefully this onslaught of completely free resources will drive home my point.
+The internet is full of world-class educational resources if you just know where to look. The point of this pile of links is to show that your time is valuable, not that you need to do any of these things. 
 
 ### MIT OpenCourseWare
 
