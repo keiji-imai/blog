@@ -12,7 +12,7 @@ I had no plans of making a blog a few months ago. Here are the reasons that chan
 ## For Inspiration
 Blogs can inspire people. Let me explain how.
 
-Inspiration has two ingredients. First, you have to see something awesome. Then you need to convince yourself that you can do something just as awesome. 
+Inspiration has two ingredients. First, you have to see something awesome. Then you need to convince yourself that you can do it.
 
 I've experienced this first-hand. At RoboCup 2019, I was blown away by the [insane robots](https://www.youtube.com/watch?v=3Gupdy-QfdE) we competed against. But after talking to the people who built them, I realized I could make awesome robots too. The same thing happened when I went to my first FIRST Robotics Competition (FRC). I began to realize how much I could do if I set my mind to it.
 
@@ -23,21 +23,19 @@ You don't have to talk to your role models to be inspired by them. There are fan
  - [FRC Reveal Videos](https://www.youtube.com/results?search_query=frc+reveal+video) made me fall in love with FRC
  - [Build-its](https://build-its-feed.blogspot.com/) and other [MITERS](http://miters.mit.edu/) blogs inspired me to make a blog
 
-Paul Graham's essays are more inspiring to me than Elon Musk's startups, because the essays make me believe that I can build something awesome. 
-
-Having been inspired by so many people before me, it's my responsibility to help inspire the next generation of engineers. If I do something cool and write about it here, maybe someday someone will read this and be inspired to do something cool themselves.
+These websites made me believe that I could build something awesome. If I do something cool and write about it here, maybe someday someone will read this and be inspired to do something cool themselves.
 
 ## Recognition
-I have selfish reasons for creating a blog too. I can use my website to showcase my projects for research and career opportunities. It's also a good way to show what I'm working on with friends. 
+I can use my website to showcase my projects for research and career opportunities. It's also a good way to share what I'm working on with friends and family. 
 
 ## Science and Technology
-Documentation advances science and technology. 
+When I was building competition robots, I spent an absurd amount of time reading blogs, scrutinizing CAD, and watching videos of other teams. Documentation is super valuable for those with less experience. 
 
-When I was building soccer robots, I spent days poring over blogs of past teams. For FRC, I spent a stupid amount of time reading  chiefdelphi (online forum) and studying CAD models of robots from previous years. Online documentation of other people's projects was super useful.
+Newton has a famous quote attributing his success to "standing on the shoulders of giants". We stand on other people's shoulders. But in order to become one of the giants yourself, you have to share your work with others.
 
-"An engineer has done nothing until it has been documented"
- -Anonymous
+Somebody once told me
+>An engineer has done nothing until it has been documented
 
 ## Conclusion
 
-In short, other people's documentation helped me a lot so I'm trying to pay it back. If you feel the same way, consider making a blog yourself!
+Other people's websites have helped me a lot, so making my own blog is an attempt to pass it on. Consider making a blog yourself! I've written a blog post on how to [get started](https://kogappa.com/posts/blog/).

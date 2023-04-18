@@ -1,6 +1,6 @@
 ---
 title: "Creating a Blog"
-date: 2023-04-03
+date: 2023-04-16
 draft: False
 description: "How to make your own website"
 summary: "How to make your own website"
@@ -32,4 +32,4 @@ You can also build a website from scratch using React or other web dev tools. I 
 
 The first step is to buy a domain. I chose "kogappa.com" because keijiimai.com seemed too boring. A "kogappa" (baby kappa) is a cute mythical creature that lives in lakes and eats people. I was able to get the domain for just $9 per year from Cloudflare domains.
 
-Once you have your domain, you can publish your website for free using Cloudflare Pages. Then whenever you push to your github repo, it will automatically update your website. 
+Once you have your domain, you can publish your website for free using [Cloudflare Pages](https://pages.cloudflare.com/). Then whenever you push to your github repo, it will automatically update your website. 
