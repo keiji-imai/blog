@@ -95,6 +95,6 @@ Don't waste time. To quote Paul Graham's article [*Life is Short*](http://paulgr
 
 As a high schooler I didn't realize how much I could do if only I tried hard enough. I hope that this post helps you appreciate how valuable your time really is.
 
-I'll end this post with a quote from Paul Graham's [essay](http://paulgraham.com/hs.html) that I recommended in the beginning.
+I'll end this post with a quote from the Paul Graham [essay](http://paulgraham.com/hs.html) that I recommended in the beginning.
 
 >Maybe you can be the first generation whose greatest regret from high school isn't how much time you wasted.
