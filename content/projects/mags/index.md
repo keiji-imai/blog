@@ -19,13 +19,16 @@ I managed to win a game against it with pure skill.
 
 {{<youtube _3VSHdZMGXc>}}
 
+Here's a professionally produced video by Project Manus (one of our sponsors):
+{{<youtube jr7b5L2Ra7s>}}
+
 ## Mechanical
 
 You can view our CAD [here](https://cad.onshape.com/documents/2f3e28006e5b2cd6cd052bed/w/872351ec056974a435282c6c/e/d98ee53972011595aca895ee?renderMode=0&uiState=63c3c2efbb8ec706e89127de). 
 
 ![CAD](images/mags_gantry.png)
 
-Mags is like a 3D printer. Instead of a hotend, we have an electromagnet. We designed a CoreXY gantry that is only 30mm tall so that the robot could be as thin as possible. When assembling the frame and gantry, we had to make everything perfectly square and parallel, or the linear rails would not slide smoothly. I described this process [here](https://kogappa.com/posts/mags_assembly).
+Mags is kind of like a 3D printer. Instead of a hotend, we have an electromagnet. We designed the CoreXY gantry to be as thin as possible. When assembling the frame and gantry, we had to make everything perfectly square and parallel, or the linear rails would not slide smoothly. I described this process [here](https://kogappa.com/posts/mags_assembly).
 
 The motors are fast!
 
@@ -38,14 +41,16 @@ We got our final parts printed for us by Formlabs on the Fuse 1. SLS Nylon is pr
 We waterjet the carbon fiber board:
 {{<youtube _lpElcSVjb8>}}
 
+The carbon fiber slightly delaminated around the holes unfortunately.
+
 ## Electrical
 ![underside](images/mags_underside.jpg)
 
-Our board is like a keyboard. We used reed switches to detect the magnetic fields of the chess pieces. By wiring them up in an input matrix, we are able to sample all 64 squares with just 16 pins. I had to wire it up by hand because I ran out of time to design a PCB. In hindsight I really should have designed a PCB.
+Our sensor array is wired like a keyboard. We used reed switches to detect the magnetic fields of the chess pieces. We use an input matrix to sample all 64 squares with just 16 pins. We wired it up by hand because we didn't have time to design a PCB. In hindsight we really should have designed a PCB.
 
 ![Input Matrix](images/input_matrix.jpg)
 
-Above is the wiring diagram for the board. It's exactly how high performance keyboards are wired. We set one column to high and see which rows get power. This tells us which reed switches are triggered in that column. Repeating this for all 8 columns gives us all of the sensor values. Having diodes on each reed switch gives us [n-key rollover](https://en.wikipedia.org/wiki/Key_rollover).
+Above is the wiring diagram for the board. It's exactly how high performance keyboards are wired. We set one column to high and see which rows get power, revealing the reed switches that are triggered in that column. Repeating this for all 8 columns gives us the positions of all of the pieces. Having diodes on each reed switch gives us [n-key rollover](https://en.wikipedia.org/wiki/Key_rollover).
 
 The electromagnet is controlled with a power transistor and a flyback diode. The stepper motors are controlled by TMC2209 drivers, which are controlled by a RasPi Pico running a 3D printer firmware called [Klipper](https://www.klipper3d.org/). The reed switches are wired directly to the RasPi 4B, which handles the high level code.
 
@@ -65,4 +70,4 @@ This project was really fun. I learned a lot of things, but most importantly I l
 Areas for improvement:
  - Reed switches suck. They have blindspots and are unreliable. We should have a 400x400mm PCB that has a ton of SMD hall-effect sensors on it instead.
  - We spent too much money. We could've built Mags for $500 if we needed to, but having such a large budget made us spend money on things we probably shouldn't have.
- - People have told me we should make Mags have an easier difficulty. But I'd rather make Mags a robot hustler. When you make a blunder, Mags will let you know. When it wins, Mags should say something. Maybe arrange the pieces to form a big L on the board.
+ - People have told me we should make Mags have an easier difficulty. But I'd rather make Mags a robot hustler. When you make a blunder, Mags should roast you. When it wins, Mags should arrange the pieces to form a big L on the board.

@@ -14,8 +14,8 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Keiji Imai"
-  # image = "img/fish_cropped.jpg"
-  headline = "Building Robots for Fun"
+  image = "img/portrait.jpg"
+  headline = "Building stuff for fun"
   bio = "I'm a freshman at MIT who loves building robots."
   links = [
      { email = "mailto:keijii@mit.edu" },

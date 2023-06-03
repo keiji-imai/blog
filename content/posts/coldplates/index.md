@@ -2,8 +2,8 @@
 title: Machining Coldplates
 date: 2023-02-26
 draft: False
-description: "Haas goes brrr"
-summary: "Haas goes brrr"
+description: "CNCing parts to watercool a battery"
+summary: "CNCing parts to watercooled a battery"
 series: ["MIT Motorsports"]
 series_order: 2
 ---
