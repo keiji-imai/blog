@@ -1,8 +1,8 @@
 ---
 title: Front Wing Mounting
 date: 2023-05-26
-description: "Designing efficient parts with hand calcs"
-summary: "Designing efficient parts with hand calcs"
+description: "Using hand calcs to design efficient parts"
+summary: "Using hand calcs to design efficient parts"
 draft: False
 series: ["MIT Motorsports"]
 series_order: 3
