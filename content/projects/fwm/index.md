@@ -1,8 +1,8 @@
 ---
 title: Front Wing Mounting
 date: 2023-05-26
-description: "Using hand calcs to design efficient parts"
-summary: "Using hand calcs to design efficient parts"
+description: "Learning to design efficiently using hand calcs"
+summary: "Learning to design efficiently using hand calcs"
 draft: False
 series: ["MIT Motorsports"]
 series_order: 3
@@ -42,7 +42,7 @@ Unfortunately there wasn't time for a final DR before the front wing was manufac
 After DR2 I learned that the carbon fiber layups on our nosecone were done inaccurately, so the front wing mounting would need significantly more clearance than I had designed for. In hindsight, I should have checked with the aero team at the beginning to confirm the critical dimensions rather than blindly trusting CAD. 
 
 ## Design Requirements
-If the front wing touches the ground during a race, we'll be disqualified. The largest forces on the front wing will be while turning as tightly as possible as fast as possible. I conservatively decided to design for a worst-case scenario of making a 15 foot radius turn at 30 miles per hour.
+If the front wing touches the ground during a race, we'll be disqualified. The largest forces on the front wing will be while turning as tightly as possible as fast as possible. I conservatively decided to design for a worst-case scenario of making a 25 foot radius turn at 30 miles per hour. 
 
 It's also required by rules that the front wing mounting shears at 60 kilonewtons so that the impact attenuator can safely deccelerate the car if we crash. It's easily calculated that four 10-32 bolts will shear at this force.
 
@@ -50,11 +50,13 @@ It's also required by rules that the front wing mounting shears at 60 kilonewton
 
 In previous years, we mounted the front wing using its vertical panels. But this requires the vertical panels to be structural. To save weight, we used light panels and added mounting holes to the front wing's aluminum ribs.
 
-I also chose to use box tube and 3D printed inserts. In previous years, we machined dovetails that allowed the front wing to be taken on and off the car more easily. Dovetails are challenging to machine and only makes assembly marginally easier. Using box tube and 3D printed inserts with captured nuts still allows the front wing to be assembled without a wrench, but simplifies manufacturing significantly. Perhaps most importantly, the dovetail design would get caught on the nosecone as you tried to remove the front wing, making assembly extremely difficult.
+I also chose to use box tube and 3D printed inserts. In previous years, we machined dovetails that allowed the front wing to be taken on and off the car more easily. Dovetails are challenging to machine and only makes assembly marginally easier. Using box tube and 3D printed inserts with captured nuts still allows the front wing to be assembled without a wrench, but simplifies manufacturing significantly. Perhaps most importantly, the dovetail design would get caught on the nosecone as you tried to remove the front wing, making assembly difficult.
 
 I didn't want to have to set the car's ride height before welding the tubes on the car, so I included additional holes in the box tubes so the front wing can be moved up or down after the tubes are welded.
 
-Thin aluminum plates are very strong for in-plane forces, but they bend easily when out-of-plane forces or moments are applied. When the car is turning at high velocity, most of the drag is on the outer side of the wing, creating a z-axis moment in addition to the centripetal forces on the front wing. Increasing the plate's thickness or changing its material adds a lot of weight, so instead I added tensioned steel wire to eliminate out-of-plane forces on the aluminum plates.
+Thin aluminum plates are very strong for in-plane forces, but they bend easily when out-of-plane forces or moments are applied. When the car is turning at high velocity, most of the drag is on the outer side of the wing, creating a z-axis moment in addition to the centripetal forces on the front wing. This puts a bending load on the thin plates.
+
+Increasing the plate's thickness or changing its material adds a lot of weight, so instead I added tensioned steel wire to prevent the plates from bending.
 
 ![CAD](images/fwm_cad.png)
 
@@ -80,10 +82,19 @@ We had to make custom length spacers on the lathe because of a design change mad
 
 ![Assembly](featured.jpg)
 
+The front wing comes off the car with just four bolts.
+
+![Front Wing Off Car](images/fwm_offcar.jpg)
+![Front Wing Car](images/fwm_car.jpg)
+
+## Results
+
+The front wing didn't fall off during competition. But a different team's front wing fell off when they hit a cone and they ran the wing over. Hitting a cone gives you a time penalty, but the front wing falling off is a DQ. So instead of designing for the cornering loads, I should have designed for cone collision loads. 
+
 ## Conclusion
 
 I used mechanics principles to design a lightweight but strong front wing mounting solution that is easy to remove from the car. Here are some things I learned:
  - Changing materials or increasing thickness is often an inefficient way to increase strength
  - Take advantage of geometry (tensioned wire, I beams, etc)
  - Check critical dimensions in real life (sometimes CAD isn't accurate enough)
- - Hand calcs allow you to design way better parts
+ - Hand calcs help you understand what you're designing

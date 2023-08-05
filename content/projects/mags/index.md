@@ -1,8 +1,8 @@
 ---
 title: Mags
 date: 2023-02-12
-description: "An unbeatable chess robot"
-summary: "An unbeatable chess robot"
+description: "An unbeatable chess robot that moves pieces using magnets"
+summary: "An unbeatable chess robot that moves pieces using magnets"
 series: ["Mags, Chess Robot"]
 series_order: 0
 ---
