@@ -2,8 +2,8 @@
 title: Marine Robotics Group Documentation
 date: 2023-08-05
 draft: False
-description: "How to program a Universal Robotics 6-axis arm"
-summary: "How to program a Universal Robotics 6-axis arm"
+description: "How to collect IMU data with a 6-axis arm"
+summary: "How to collect IMU data with a 6-axis arm"
 ---
 
 ## Introduction
