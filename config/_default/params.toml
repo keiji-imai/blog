@@ -5,8 +5,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
 
-colorScheme = "fire"
-defaultAppearance = "light" # valid options: light or dark
+colorScheme = "starlight"
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
@@ -27,7 +27,7 @@ mainSections = ["projects"]
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/portrait.jpg" # used in: hero, and card
+  homepageImage = "img/laugh_square.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 20
   showMoreLink = true
