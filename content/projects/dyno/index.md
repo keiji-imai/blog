@@ -2,8 +2,8 @@
 title: Dyno
 draft: False
 date: 2022-11-18
-description: "Characterizing a custom gearbox and inverter for MIT Motorsports"
-summary: "Characterizing a motor and custom inverter for MIT Motorsports"
+description: "Building a dyno to characterize a motor and custom inverter"
+summary: "Building a dyno to characterize a motor and custom inverter"
 series: ["MIT Motorsports"]
 series_order: 1
 ---

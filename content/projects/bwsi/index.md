@@ -2,8 +2,8 @@
 title: MIT BeaverWorks
 draft: False
 date: 2021-08-30
-description: "Autonomously navigating an obstacle course with a quadcopter and OpenCV"
-summary: "Autonomously navigating an obstacle course with a quadcopter and OpenCV"
+description: "Autonomously navigating an obstacle course with a quadcopter"
+summary: "Autonomously navigating an obstacle course with a quadcopter"
 ---
 
 ![Missing Propellers](images/missing_props_prize.jpg)

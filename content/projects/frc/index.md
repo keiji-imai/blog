@@ -2,8 +2,8 @@
 title: FIRST Robotics
 draft: False
 date: 2021-06-01
-description: "Building a 125 lb robot that can climb monkey bars"
-summary: "Building a 125 lb robot that can climb monkey bars"
+description: "Building a 125 lb robot that can climb 8 feet from the ground"
+summary: "Building a 125 lb robot that can climb 8 feet from the ground"
 ---
 
 # LigerBots 
