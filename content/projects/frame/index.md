@@ -13,7 +13,7 @@ As chassis, packaging, and frame lead for [MIT Motorsports](https://fsae.mit.edu
 ## Research
 
 The first step was to do research on space frames to better understand how to design them. The best resources I found were:
- - Bill riley's [Design, Analasys, and Testing of a Formula SAE Car Chassis](https://www.researchgate.net/publication/267937654_2002-01-3300_Design_Analysis_and_Testing_of_a_Formula_SAE_Car_Chassis)
+ - Bill Riley's [Design, Analasys, and Testing of a Formula SAE Car Chassis](https://www.researchgate.net/publication/267937654_2002-01-3300_Design_Analysis_and_Testing_of_a_Formula_SAE_Car_Chassis)
  - [The Effect of Chassis Stiffness on RaceCar Handling Balance](https://www.academia.edu/32672830/The_Effect_of_Chassis_Stiffness_on_Race_Car_Handling_Balance)
  - Oliver Macneely's [Design and Analysis of a Monocoque Chassis for an Electric Formula SAE Vehicle](https://dspace.mit.edu/handle/1721.1/147426?show=full)
  - Race Car Vehicle Dynamics by Milliken and Milliken
