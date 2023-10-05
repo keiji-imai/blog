@@ -14,9 +14,9 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Keiji Imai"
-  image = "img/laugh_square.jpg"
+  image = "img/skyline_square2.jpg"
   headline = "MIT Motorsports Chassis Lead"
-  bio = "I'm a freshman at MIT who loves building robots."
+  bio = "I'm a sophomore at MIT who loves building racecars and robots."
   links = [
      { email = "mailto:keijii@mit.edu" },
   #   { link = "https://link-to-some-website.com/" },
@@ -56,7 +56,7 @@ dateFormat = "2 January 2006"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-     { twitter = "https://twitter.com/imai_keiji" },
+  #   { twitter = "https://twitter.com/imai_keiji" },
   #   { whatsapp = "https://wa.me/phone-number" },
      { youtube = "https://www.youtube.com/channel/UC0vttABoV8W7xOJ7s0tE5qQ" },
   #   { ko-fi = "https://ko-fi.com/username" },
