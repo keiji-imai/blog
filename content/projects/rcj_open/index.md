@@ -1,8 +1,8 @@
 ---
 title: RoboCupJunior Open
 date: 2022-08-30
-description: "Autonomous soccer robot with custom gearbox and SLS parts"
-summary: "Autonomous soccer robot with custom gearbox and SLS parts"
+description: "Autonomous soccer robot with custom gearbox and brushless motors"
+summary: "Autonomous soccer robot with custom gearbox and brushless motors"
 series: ["RoboCupJunior"]
 series_order: 1
 ---

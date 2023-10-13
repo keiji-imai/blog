@@ -99,6 +99,19 @@ I'm currently designing the frame, starting with spacefill CAD for packaging all
 
 ![spacefill](images/spacefill.png)
 
-A new member built an ergonomics jig so that we can optimize seat angles, pedal positions, steering wheel position, and more.
+I am responsbile for packaging of systems. Here is my spacefill CAD for the halfshaft and rear suspension. I'm proud of how the rocker is mounted to a very well supported node at the corner of the battery and the forces on the shocks are almost parallel with the longitudinal tubes they are mounted to. This design allows for the load paths to be in tension and compression, not bending, which makes the frame much stiffer.
+![rear spacefill](images/rear_sus_spacefill.png)
+
+Instead of using 1" diameter, 0.065" thick tubes for the side impact structure, I am using 1.25" diameter, 0.049" thick tubes because for the same cross sectional area (tensile strength + weight), the larger tubes have 60% heigher EI (bending stiffness). 
+![SIS](images/side_impact.png)
+
+The two highlighted sections of the frame are planar so that they can be jigged and welded flat, which will make building the frame much easier.
+![Planar tubes](images/planar_tubes.png)
+
+We optimized seat angles, pedal positions, steering wheel position, and more with an ergonomics jig.
 
 ![ergo jig](images/ergo_jig.jpg)
+
+We are also working on measuring the torsional stiffness of a previously built frame with a "torsionator". This will be used to empirically validate my Finite Element Analysis (FEA) so that we can confidently hit the design requirement for torsional stiffness.
+
+![torsionator](images/torsionator.png)
