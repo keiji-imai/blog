@@ -66,6 +66,10 @@ Figure 12 from [Bill Riley's paper](https://www.researchgate.net/publication/267
 I sketched the viable design archetectures next. I then proposed a concept for the Concept Design Review. Here are my [CoDR slides](https://docs.google.com/presentation/d/18RmqpruyVm-Vr8MNB-Cd666L07yaRMq-xGqe2pHarT0/edit?usp=sharing).
 
 ### Bending calcs
+
+In previous years, the 3 kN loads from the suspension pushrod would put frame tubes in bending, as shown below.
+![Tubes in bending](images/bending_my22.png)
+
 I did some hand calcs to determine whether putting frame tubes in bending is acceptable. 
 ![Bending](images/bending.png)
 With a simple beam bending calculation, I determined that suspension points putting tubes in bending creates 2 mm of deflection, which is unacceptable considering that the entire frame should deflect less than 1 mm for optimal suspension performance.
