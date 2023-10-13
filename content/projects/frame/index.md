@@ -100,6 +100,7 @@ I'm currently designing the frame, starting with spacefill CAD for packaging all
 ![spacefill](images/spacefill.png)
 
 I am responsbile for packaging of systems. Here is my spacefill CAD for the halfshaft and rear suspension. I'm proud of how the rocker is mounted to a very well supported node at the corner of the battery and the forces on the shocks are almost parallel with the longitudinal tubes they are mounted to. This design allows for the load paths to be in tension and compression, not bending, which makes the frame much stiffer.
+![rear suspension](images/rear_sus.png)
 ![rear spacefill](images/rear_sus_spacefill.png)
 
 Instead of using 1" diameter, 0.065" thick tubes for the side impact structure, I am using 1.25" diameter, 0.049" thick tubes because for the same cross sectional area (tensile strength + weight), the larger tubes have 60% heigher EI (bending stiffness). 
