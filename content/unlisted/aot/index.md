@@ -1,7 +1,7 @@
 ---
 title: "To You, 2000 Years From Now"
 date: 2023-05-28
-draft: True
+draft: False
 description: "Why you need to watch Attack on Titan"
 summary: "Why you need to watch Attack on Titan"
 ---
