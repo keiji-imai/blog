@@ -30,3 +30,8 @@
 --color-secondary-800:    78,7,25;
 --color-secondary-900:    41,4,13;
 }
+
+/* Sketchy margin fix */
+.mb-10 {
+    margin-bottom: 0!important
+}
