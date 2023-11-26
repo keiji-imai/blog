@@ -10,7 +10,7 @@ After watching the final episode of Attack on Titan, I felt compelled to write a
 
 ## Intro
 
-A few times in my life, I have been lucky enough to experience something so wonderful it completely changed my perception of a part of life.
+A few times in my life, I have been lucky enough to experience something so wonderful it completely changed a part of life.
 
 One of those experiences is the sushi restaurant in Japan that made me never look at food the same way again.
 
