@@ -20,6 +20,11 @@
   pageRef = "projects"
   weight = 10
 
+[[main]]
+  name = "Rants"
+  pageRef = "rants"
+  weight = 10
+
 #[[main]]
 #  name = "Categories"
 #  pageRef = "categories"
