@@ -1,6 +1,6 @@
 ---
 title: "To You, 2000 Years From Now"
-date: 2023-05-28
+date: 2023-11-23
 draft: False
 description: "Why you need to watch Attack on Titan"
 summary: "Why you need to watch Attack on Titan"
@@ -155,13 +155,14 @@ Attack on Titan dives deep into the value and cost of freedom. What is freedom a
 
 > "I never thought that being sent to my death would turn out to be so utterly meaningless in the end"
 
-What's the difference between patriotism and nationalism? Attack on Titan shows the value and drawbacks of fighting for your country.
+What's the difference between patriotism and nationalism? Attack on Titan shows the value and problems of fighting for your country.
+
 
 ### Indoctrination
 
 > "You were children who knew nothing but it was drilled into you. You were just kids. What could you even do?"
 
-Attack on Titan shows you what indoctrination looks like and how it can make good people do terrible things. Everyone has to do terrible things in war.
+Attack on Titan shows you what indoctrination looks like and how it can make good people do terrible things. It illustrates how populations can be brainwashed and perpetuate ethnic hate.
 
 ## How to watch
 
