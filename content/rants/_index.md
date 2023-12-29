@@ -7,4 +7,4 @@ cascade:
   showSummary: True
 ---
 
-A rant is an essay but less pretentious. I think.
+Nontechnical posts about things I like talking about.
