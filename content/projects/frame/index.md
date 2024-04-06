@@ -8,7 +8,13 @@ series: ["MIT Motorsports"]
 series_order: 4
 ---
 ## Introduction
-As chassis, packaging, and frame lead for [MIT Motorsports](https://fsae.mit.edu/), I'm designing and building a steel space frame for this year's car.
+As frame lead for [MIT Motorsports](https://fsae.mit.edu/), I designed and built a steel space frame for this year's car.
+
+
+<!-- {{<youtube uuCiBHNnSaI>}}
+
+
+{{<youtube o6p8-_UJJlw>}} -->
 
 ## Research
 

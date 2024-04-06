@@ -76,7 +76,7 @@ Imagine watching a TV show where this much skill and care is put into *every sce
 
 ### Action
 
-They have this technology called ODM Gear which is like [Titanfall 2 grapples](https://www.youtube.com/watch?v=U5lQGBl9rzg) on steroids. This, combined with epic titan-on-titan fights (choreographed with the help of [professional martial artists](https://www.youtube.com/watch?v=xDD4FBDHwSE)), make Attack on Titan fight scenes super fun to watch. 
+They have this technology called ODM Gear which is like [Titanfall 2 grapples](https://www.youtube.com/watch?v=U5lQGBl9rzg) on steroids. This, combined with epic titan-on-titan fights (choreographed with the help of professional martial artists), make Attack on Titan fight scenes super fun to watch. 
 
 <div class="tenor-gif-embed" data-postid="25313040" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/aot-levi-attack-on-titan-levi-ackerman-odm-gear-gif-25313040">Aot Levi GIF</a>from <a href="https://tenor.com/search/aot-gifs">Aot GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
@@ -93,6 +93,7 @@ If you watch the first episode you'll see the incredible voice acting I'm talkin
 ## Plot
 
 ### Premise
+![That Day](images/that_day.png)
 
 The premise of Attack on Titan is that all of humanity is confined inside big walls, and there are man-eating giants, called titans, outside of the walls. Humanity struggles to fight for their freedom and to learn about the world.
 
@@ -100,15 +101,15 @@ I leave it at that because it's better if you learn the rest by watching the fir
 
 ### World Building
 
-![That Day](images/that_day.png)
+![Paths](images/ymir_paths.png)
 
-Every detail of the world of Attack on Titan has been thought out and will eventually be explained. As you learn more and more about the world, you will be shocked by how deep the world really is.
+Every detail of the world of Attack on Titan has been thought out and is eventually explained. As the story progresses, you and the characters learn more and more about how the world works and its deep history. With every season, you realize the world of Attack on Titan was so much deeper than you thought it was.
 
 ### Plot Twists
 
 Attack on Titan plot twists will dislocate your jaw. The tension build-up and cliffhangers will make you unable to stop watching and the twists will change your understanding of the whole story.
 
-The foreshadowing is mind blowing. Isayama couldn't have written the first chapter of Attack on Titan without knowing how the whole story ended. Every major plot twist has been hinted at from the very first episode. As a result, despite how unpredictable the twists are, everything makes sense in hindsight.
+Isayama couldn't have written the first chapter of Attack on Titan without knowing how the whole story ended. The foreshadowing is brilliant, and despite how unpredictable the twists are, they make so much sense in hindsight.
 
 ### Ending
 
@@ -136,7 +137,7 @@ Attack on Titan also depicts the value of the insignificant moments of peace and
 ### Freedom
 
 ![Book](images/characters/book.png)
-> "Fiery water! Lands of ice! Sandy snowfields! I hope we can explore the outside world too someday."
+> "Fiery water! Lands of ice! Sandy snowfields! Let's explore the outside world someday!"
 
 
 ![Freedom](images/eren_freedom.png)
@@ -150,9 +151,12 @@ Attack on Titan dives deep into the value and cost of freedom. What is freedom? 
 ![Erwin Speech](images/erwin_speech.png)
 > "It's us who give meaning to our comrades' lives! We die trusting the living who follow to find meaning in our lives! That is the sole method in which we can rebel against this cruel world!"
 
-![Salute](images/erwin_salute.png)
+![Salute](images/floch.png)
 
-> "I never thought that being sent to my death would turn out to be so utterly meaningless in the end"
+> "I never thought that being sent to my death would turn out to be so utterly meaningless in the end."
+
+![Comrades](images/comrades.png)
+> "Do you see them? Our comrades? They want to know what became of the hearts they gave."
 
 Why do people give up their lives for what they believe in? Even when they know their individual deaths would have a marginal impact? Attack on Titan shows you what it means to die for a cause and grapples with the morality of war.
 

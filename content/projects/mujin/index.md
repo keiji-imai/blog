@@ -8,6 +8,9 @@ summary: "Making industrial automation robots crash-proof"
 
 I was a design team intern at Mujin the summer of 2023. In just three months, I've been convinced that Mujin is one of the top 3 coolest robotics companies in the world. The internship was in Tokyo, Japan, but (almost) everyone in the company speaks English.
 
+I summarize my internship experience in this interview:
+{{<youtube n22Q2WhBONs>}}
+
 Mujin's robots automate warehouses and factories, allowing humans to do more meaningful work. 
 
 Mujin can automate a huge range of tasks, including [unloading trucks](https://www.youtube.com/watch?v=9oB6fnZ7N6w), [sorting automotive parts](https://www.youtube.com/watch?v=28S1gxOLw0U), [picking gears](https://www.youtube.com/watch?v=h5c2i4Ophsw), [sorting groceries](https://www.youtube.com/watch?v=qap0OXyDMTU), [sorting medicine](https://www.youtube.com/watch?v=Lf-iTcULJI8), and much more.

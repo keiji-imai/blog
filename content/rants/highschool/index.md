@@ -6,25 +6,27 @@ description: "Things that I wish I had known"
 summary: "Things that I wish I had known"
 ---
 
-People have given me advice that has changed my life. This is my advice for high school students. But first, please read [Paul Graham's essay](http://paulgraham.com/hs.html) about high school. It's really good. 
+A lot of people ask me how I got into MIT. I'll show my appreciation for the people who gave me excellent advice by trying to pay it forward --- the following is an essay about my own advice for high school students. But first, please read [Paul Graham's essay](http://paulgraham.com/hs.html) about high school. It's really good and you won't regret it.
 
 ## Motivation is the bottleneck
 
 When I was in high school, my excuse for a lot of things was "I don't have time" or "I don't have the resources". I told myself that it wasn't my fault.
 
-I was wrong. I had plenty of time and resources. What I didn't have was motivation. If I *really* wanted to learn how to solve differential equations or build a CNC machine, I totally could have. At MIT I've met people who built [walking quadrupeds](https://www.youtube.com/watch?v=Sht5Nenk3Dg), [nuclear fusors](https://www.anhadsawhney.com/#/nuclear-fusor/), and [synchronous reluctance motors](https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/) in high school. These people aren't any more special than you or me. They love what they do and worked really hard, every day, until they became really good at it.
+I was wrong. I had plenty of time and resources. What I didn't have was motivation. If I *really* wanted to learn how to solve differential equations or build a CNC machine, I totally could have. At MIT I've met people who built [walking quadrupeds](https://www.youtube.com/watch?v=Sht5Nenk3Dg), [nuclear fusors](https://www.anhadsawhney.com/#/nuclear-fusor/), and [synchronous reluctance motors](https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/) in high school. These people aren't any more special or priviledged than you or me. They love what they do and worked really hard, every day, until they became really good at it.
 
 But how do you find motivation to work hard?
 
-You might think you need to have really strong discipline. I have terrible discipline. I [procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) and get [distracted](https://www.youtube.com/watch?v=kyfb8lGAveY) whenever I have to do boring work, even when it's really important (homework, getting a driver's license, etc). 
+You might think you need to have really strong discipline. But I have terrible discipline. I [procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) and get [distracted](https://www.youtube.com/watch?v=kyfb8lGAveY) whenever I have to do boring work, even when it's really important (homework, getting a driver's license, etc). 
 
 The way to work hard *without* needing strong discipline is to work on fun projects. Spend time on projects that are both challenging and exciting. Then the motivation will come naturally. You'll want to work on your project as much as possible. 
 
 What if you don't know what you're passionate about? 
 
-Excitement, competitiveness, and comaraderie made me fall in love with robotics. I've always thought robots were really cool, so I joined my middle school's FIRST Lego League team. We got obliterated at every competition (back in my day you could get negative points). I was so mad. My desire to win made me want to get better at building robots. Finally, I love building robots because of my friends. There's a certain comaraderie forged from building robots late into the night that you can't get from playing video games.
+I'll use my own experience as an example.
 
-If you don't know what you are passionate about, join a club that does cool things, because the cool factor, desire to win, and friends you make will motivate you to work hard.
+I fell in love with robotics for three reasons --- excitement, competitiveness, and friendship. I've always thought robots were really cool, so I joined my middle school's FIRST Lego League team. We got obliterated at every competition (back in my day you could get negative points). I was so mad. My desire to win made me work really hard to get better at building robots, and almost by accident I made really good friends while building these robots. There's a certain comaraderie forged from building robots late into the night that you can't get from just playing video games together (some people refer to this as trauma bonding).
+
+If you don't know what you are passionate about, join a club that does cool things. The cool factor and the friends you make will motivate you to work hard.
 
 ## Your time is precious
 
@@ -88,7 +90,7 @@ Do what you love and don't waste time. MIT Admissions officer Chris Peterson wro
 
 Do what you love because it's exciting. If you think robots are cool, build robots. If you think video games are cool, program some video games. This is worth doing whether you get into your dream school or not. 
 
-Don't waste time. To quote Paul Graham's article [*Life is Short*](http://paulgraham.com/vb.html),
+Don't waste time. To quote Paul Graham's essay [*Life is Short*](http://paulgraham.com/vb.html),
 >Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have.
 
 ## Conclusion
