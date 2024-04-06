@@ -170,6 +170,7 @@ Attack on Titan depicts how revenge and greed lead to an endless cycle of violen
 
 ### Indoctrination
 
+![Indoctrination](images/indoctrination.png)
 > "You were children who knew nothing but it was drilled into you. You were just kids. What could you even do?"
 
 Attack on Titan shows you what indoctrination looks like and how it can make good people do terrible things. It illustrates how populations can be brainwashed and perpetuate ethnic hate.
