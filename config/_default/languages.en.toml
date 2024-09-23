@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Keiji Imai"
   image = "img/skyline_square2.jpg"
-  headline = "Learning how to change the world through cool engineering"
-  bio = "Learning how to change the world through cool engineering"
+  headline = "Learning how to change the world"
+  bio = "Learning how to change the world"
   links = [
      { email = "mailto:keijii@mit.edu" },
   #   { link = "https://link-to-some-website.com/" },
