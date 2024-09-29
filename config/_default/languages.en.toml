@@ -1,17 +1,19 @@
 
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
 
 title = "Keiji Imai"
 # logo = "img/fish.jpg"
-description = "Come visit my website!"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
+
+[params]
+  displayName = "EN"
+  description = "Come visit my website!"
+  rtl = false
+  dateFormat = "2 January 2006"
+  isoCode = "en"
 
 [author]
   name = "Keiji Imai"
@@ -20,6 +22,10 @@ dateFormat = "2 January 2006"
   #bio = "Learning how to change the world"
   links = [
      { email = "mailto:keijii@mit.edu" },
+     { github = "https://github.com/keiji-imai" },
+     { youtube = "https://www.youtube.com/channel/UC0vttABoV8W7xOJ7s0tE5qQ" },
+   ]
+
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -31,7 +37,6 @@ dateFormat = "2 January 2006"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-     { github = "https://github.com/keiji-imai" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
@@ -59,6 +64,4 @@ dateFormat = "2 January 2006"
   #   { twitch = "https://twitch.tv/username" },
   #   { twitter = "https://twitter.com/imai_keiji" },
   #   { whatsapp = "https://wa.me/phone-number" },
-     { youtube = "https://www.youtube.com/channel/UC0vttABoV8W7xOJ7s0tE5qQ" },
   #   { ko-fi = "https://ko-fi.com/username" },
-   ]
