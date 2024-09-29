@@ -1,3 +1,4 @@
+
 languageCode = "en"
 languageName = "English"
 displayName = "EN"
@@ -14,9 +15,9 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Keiji Imai"
-  image = "img/skyline_square2.jpg"
-  headline = "Learning how to change the world"
-  bio = "Learning how to change the world"
+  #image = "img/skyline_square2.jpg"
+  #headline = "Learning how to change the world"
+  #bio = "Learning how to change the world"
   links = [
      { email = "mailto:keijii@mit.edu" },
   #   { link = "https://link-to-some-website.com/" },
@@ -38,7 +39,7 @@ dateFormat = "2 January 2006"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-     { linkedin = "https://www.linkedin.com/in/keiji-imai-74b8731b8/" },
+  #   { linkedin = "https://www.linkedin.com/in/keiji-imai-74b8731b8/" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },

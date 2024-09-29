@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Keiji Imai</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Keiji Imai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Racecar Space Frame</title>
+      <link>http://localhost:1313/projects/frame/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/frame/</guid>
+      <description>Designing and building a frame for a Formula SAE racecar</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/frame/featured.png" />
+    </item>
+    
+    <item>
+      <title>Mujin</title>
+      <link>http://localhost:1313/projects/mujin/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mujin/</guid>
+      <description>Making industrial automation robots crash-proof</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mujin/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Marine Robotics Group</title>
+      <link>http://localhost:1313/projects/mrg/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mrg/</guid>
+      <description>Collecting IMU data with a 6-axis arm</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mrg/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Front Wing Mounting</title>
+      <link>http://localhost:1313/projects/fwm/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/fwm/</guid>
+      <description>Learning to design efficiently using hand calcs</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fwm/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Mags</title>
+      <link>http://localhost:1313/projects/mags/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mags/</guid>
+      <description>An unbeatable chess robot that moves pieces using magnets</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mags/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Dyno</title>
+      <link>http://localhost:1313/projects/dyno/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dyno/</guid>
+      <description>Building a dyno to characterize a motor and custom inverter</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/dyno/featured.png" />
+    </item>
+    
+    <item>
+      <title>RoboCupJunior Open</title>
+      <link>http://localhost:1313/projects/rcj_open/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/rcj_open/</guid>
+      <description>Autonomous soccer robot with custom gearbox and brushless motors</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rcj_open/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>MIT BeaverWorks</title>
+      <link>http://localhost:1313/projects/bwsi/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/bwsi/</guid>
+      <description>Autonomously navigating an obstacle course with a quadcopter</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/bwsi/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>RoboCupJunior Lightweight</title>
+      <link>http://localhost:1313/projects/rcj_lw/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/rcj_lw/</guid>
+      <description>Autonomous soccer robot with dribbler and 360 vision</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rcj_lw/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>FIRST Robotics</title>
+      <link>http://localhost:1313/projects/frc/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/frc/</guid>
+      <description>Building a 125 lb robot that can climb 8 feet from the ground</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/frc/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

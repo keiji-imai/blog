@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Keiji Imai</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Keiji Imai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Blog</title>
+      <link>http://localhost:1313/posts/blog/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog/</guid>
+      <description>How to make your own website</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/blog/featured.png" />
+    </item>
+    
+    <item>
+      <title>Machining Coldplates</title>
+      <link>http://localhost:1313/posts/coldplates/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/coldplates/</guid>
+      <description>CNCing parts to watercooled a battery</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/coldplates/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Mags Assembly</title>
+      <link>http://localhost:1313/posts/mags_assembly/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mags_assembly/</guid>
+      <description>Assembling a high precision chess robot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mags_assembly/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Redist</title>
+      <link>http://localhost:1313/posts/redist/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/redist/</guid>
+      <description>A redistricting puzzle game</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/redist/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Teaching a Splash Class</title>
+      <link>http://localhost:1313/posts/splash/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/splash/</guid>
+      <description>Teaching CAD in 3 hours</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/splash/featured.png" />
+    </item>
+    
+    <item>
+      <title>Mags Design Review</title>
+      <link>http://localhost:1313/posts/mags_design/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mags_design/</guid>
+      <description>How I designed a chess robot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mags_design/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to Engineer a Cake</title>
+      <link>http://localhost:1313/posts/cake/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cake/</guid>
+      <description>Precision cake manufacturing</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cake/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chess Bot</title>
+      <link>http://localhost:1313/posts/chessbot/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chessbot/</guid>
+      <description>What if your chess board could roast you</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chessbot/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

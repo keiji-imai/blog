@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rants on Keiji Imai</title>
+    <link>http://localhost:1313/rants/</link>
+    <description>Recent content in Rants on Keiji Imai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/rants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dancing on the Edge</title>
+      <link>http://localhost:1313/rants/racecar/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/racecar/</guid>
+      <description>Why working hard is worth it</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/racecar/featured.png" />
+    </item>
+    
+    <item>
+      <title>Shape of Voice</title>
+      <link>http://localhost:1313/rants/voice/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/voice/</guid>
+      <description>A beautiful movie about depression</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/voice/featured.png" />
+    </item>
+    
+    <item>
+      <title>To You, 2000 Years From Now</title>
+      <link>http://localhost:1313/rants/aot/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/aot/</guid>
+      <description>Why you need to watch Attack on Titan</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/aot/featured.png" />
+    </item>
+    
+    <item>
+      <title>High School</title>
+      <link>http://localhost:1313/rants/highschool/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/highschool/</guid>
+      <description>Things that I wish I had known</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/highschool/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Why Blog?</title>
+      <link>http://localhost:1313/rants/whyblog/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/whyblog/</guid>
+      <description>Three reasons why this website exists</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/whyblog/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -2,9 +2,241 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keiji Imai</title>
-    <link>http://keijiimai.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Keiji Imai</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://keijiimai.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dancing on the Edge</title>
+      <link>http://localhost:1313/rants/racecar/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/racecar/</guid>
+      <description>Why working hard is worth it</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/racecar/featured.png" />
+    </item>
+    
+    <item>
+      <title>Shape of Voice</title>
+      <link>http://localhost:1313/rants/voice/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/voice/</guid>
+      <description>A beautiful movie about depression</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/voice/featured.png" />
+    </item>
+    
+    <item>
+      <title>To You, 2000 Years From Now</title>
+      <link>http://localhost:1313/rants/aot/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/aot/</guid>
+      <description>Why you need to watch Attack on Titan</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/aot/featured.png" />
+    </item>
+    
+    <item>
+      <title>Racecar Space Frame</title>
+      <link>http://localhost:1313/projects/frame/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/frame/</guid>
+      <description>Designing and building a frame for a Formula SAE racecar</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/frame/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Mujin</title>
+      <link>http://localhost:1313/projects/mujin/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mujin/</guid>
+      <description>Making industrial automation robots crash-proof</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mujin/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Marine Robotics Group</title>
+      <link>http://localhost:1313/projects/mrg/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mrg/</guid>
+      <description>Collecting IMU data with a 6-axis arm</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mrg/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Front Wing Mounting</title>
+      <link>http://localhost:1313/projects/fwm/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/fwm/</guid>
+      <description>Learning to design efficiently using hand calcs</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fwm/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Creating a Blog</title>
+      <link>http://localhost:1313/posts/blog/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog/</guid>
+      <description>How to make your own website</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/blog/featured.png" />
+    </item>
+    
+    <item>
+      <title>High School</title>
+      <link>http://localhost:1313/rants/highschool/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/highschool/</guid>
+      <description>Things that I wish I had known</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/highschool/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Machining Coldplates</title>
+      <link>http://localhost:1313/posts/coldplates/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/coldplates/</guid>
+      <description>CNCing parts to watercooled a battery</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/coldplates/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Mags</title>
+      <link>http://localhost:1313/projects/mags/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mags/</guid>
+      <description>An unbeatable chess robot that moves pieces using magnets</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mags/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Mags Assembly</title>
+      <link>http://localhost:1313/posts/mags_assembly/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mags_assembly/</guid>
+      <description>Assembling a high precision chess robot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mags_assembly/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Redist</title>
+      <link>http://localhost:1313/posts/redist/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/redist/</guid>
+      <description>A redistricting puzzle game</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/redist/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Teaching a Splash Class</title>
+      <link>http://localhost:1313/posts/splash/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/splash/</guid>
+      <description>Teaching CAD in 3 hours</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/splash/featured.png" />
+    </item>
+    
+    <item>
+      <title>Mags Design Review</title>
+      <link>http://localhost:1313/posts/mags_design/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mags_design/</guid>
+      <description>How I designed a chess robot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mags_design/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to Engineer a Cake</title>
+      <link>http://localhost:1313/posts/cake/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cake/</guid>
+      <description>Precision cake manufacturing</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cake/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Dyno</title>
+      <link>http://localhost:1313/projects/dyno/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dyno/</guid>
+      <description>Building a dyno to characterize a motor and custom inverter</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/dyno/featured.png" />
+    </item>
+    
+    <item>
+      <title>Chess Bot</title>
+      <link>http://localhost:1313/posts/chessbot/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chessbot/</guid>
+      <description>What if your chess board could roast you</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chessbot/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Why Blog?</title>
+      <link>http://localhost:1313/rants/whyblog/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/whyblog/</guid>
+      <description>Three reasons why this website exists</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/whyblog/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>RoboCupJunior Open</title>
+      <link>http://localhost:1313/projects/rcj_open/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/rcj_open/</guid>
+      <description>Autonomous soccer robot with custom gearbox and brushless motors</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rcj_open/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>MIT BeaverWorks</title>
+      <link>http://localhost:1313/projects/bwsi/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/bwsi/</guid>
+      <description>Autonomously navigating an obstacle course with a quadcopter</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/bwsi/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>RoboCupJunior Lightweight</title>
+      <link>http://localhost:1313/projects/rcj_lw/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/rcj_lw/</guid>
+      <description>Autonomous soccer robot with dribbler and 360 vision</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rcj_lw/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>FIRST Robotics</title>
+      <link>http://localhost:1313/projects/frc/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/frc/</guid>
+      <description>Building a 125 lb robot that can climb 8 feet from the ground</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/frc/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>

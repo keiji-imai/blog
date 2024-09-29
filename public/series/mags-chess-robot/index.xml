@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mags, Chess Robot on Keiji Imai</title>
+    <link>http://localhost:1313/series/mags-chess-robot/</link>
+    <description>Recent content in Mags, Chess Robot on Keiji Imai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/mags-chess-robot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mags</title>
+      <link>http://localhost:1313/projects/mags/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mags/</guid>
+      <description>An unbeatable chess robot that moves pieces using magnets</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mags/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Mags Assembly</title>
+      <link>http://localhost:1313/posts/mags_assembly/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mags_assembly/</guid>
+      <description>Assembling a high precision chess robot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mags_assembly/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Mags Design Review</title>
+      <link>http://localhost:1313/posts/mags_design/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mags_design/</guid>
+      <description>How I designed a chess robot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mags_design/featured.png" />
+    </item>
+    
+    <item>
+      <title>Chess Bot</title>
+      <link>http://localhost:1313/posts/chessbot/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chessbot/</guid>
+      <description>What if your chess board could roast you</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chessbot/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

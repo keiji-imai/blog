@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIT Motorsports on Keiji Imai</title>
+    <link>http://localhost:1313/series/mit-motorsports/</link>
+    <description>Recent content in MIT Motorsports on Keiji Imai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/mit-motorsports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Racecar Space Frame</title>
+      <link>http://localhost:1313/projects/frame/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/frame/</guid>
+      <description>Designing and building a frame for a Formula SAE racecar</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/frame/featured.png" />
+    </item>
+    
+    <item>
+      <title>Front Wing Mounting</title>
+      <link>http://localhost:1313/projects/fwm/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/fwm/</guid>
+      <description>Learning to design efficiently using hand calcs</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fwm/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Machining Coldplates</title>
+      <link>http://localhost:1313/posts/coldplates/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/coldplates/</guid>
+      <description>CNCing parts to watercooled a battery</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/coldplates/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Dyno</title>
+      <link>http://localhost:1313/projects/dyno/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dyno/</guid>
+      <description>Building a dyno to characterize a motor and custom inverter</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/dyno/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
