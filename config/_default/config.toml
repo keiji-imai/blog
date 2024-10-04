@@ -9,6 +9,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 pagination.pagerSize = 20
 summaryLength = 30
+timeout = 60000  # 60 seconds
 
 buildDrafts = false
 buildFuture = false
