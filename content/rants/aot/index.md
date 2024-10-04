@@ -2,25 +2,25 @@
 title: "To You, 2000 Years From Now"
 date: 2023-11-23
 draft: False
-description: "Why you need to watch Attack on Titan"
-summary: "Why you need to watch Attack on Titan"
+description: "Attack on Titan: war, humanity, and the value of life"
+summary: "Attack on Titan: war, humanity, and the value of life"
 ---
 
-This is a spoiler-free rant on why you need to watch the anime Attack on Titan.
+Here's my spoiler-free rant on why you need to watch the anime Attack on Titan.
 
 ## Intro
 
-I have been lucky enough to experience a couple things that were so wonderful it changed how I view the world.
+I have been lucky enough to experience a couple things that were so wonderful that they immediately changed my worldview.
 
 One of those experiences was a sushi restaurant in Japan.
 
-We had found a small sushi place that had four stars on google maps. The menu was just a $20 course and a $30 course and I ordered the $30 course. The chef handed each piece of sushi over the counter as he finished making them.
+We had found a small sushi place that had four stars on google maps. The menu was just a $20 course and a $30 course with no descriptions, and I ordered the $30 course. The chef handed each piece of sushi over the counter as he finished making them.
 
 {{< carousel images="images/sushi/*" aspectRatio="16-9" interval="2500">}}
 
-I didn't know it was possible for food to taste so good. Every bite was heaven. The flavor, the texture, the warmth -- it was all perfection.
+I didn't know it was possible for food to taste so good. Every bite was heaven. The flavor, the texture, the warmth -- I don't have the vocabulary to describe how good it was.
 
-Ever since, I can't help but feel scammed whenever I eat out (especially in the US). I still love good food, but nothing I've eaten has come close to that sushi.
+Ever since, I can't help but feel scammed whenever I eat out. Especially in the US. I still love good food, but nothing I've eaten has come close to that sushi.
 
 Attack on Titan changed how I see storytelling in the same way that sushi store changed how I see food. I absolutely love Game of Thrones, Star Wars, Ender's Game, and Lord of the Rings, but Attack on Titan is on a different level.
 
@@ -28,20 +28,20 @@ I'll try to persuade you to watch Attack on Titan by shilling it's music, art, c
 
 ## Music
 
-I'll start with this so that you can listen to the soundtrack while reading.
+I'll start with this so that you can listen to the soundtrack while reading if you've got headphones.
 
 ### Soundtrack
 
-Attack on Titan's soundtrack goes so hard.
+Attack on Titan's soundtrack is full of masterpieces.
 
 Here's a playlist of my favorites.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2FmMhggKVcENQkG62EJvy4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-The epic symphonies with german vocals are iconic.
+Orchaestras with german vocals.
 
 {{<youtube a6Fl1Xl1ogg>}}
 
-These songs hit much harder once you watch the show and you feel the nostalgia.
+These songs hit especially hard once you watch the show and you feel the nostalgia pumping through your veins.
 
 ### Intros and Outros
 
@@ -156,7 +156,7 @@ Attack on Titan dives deep into the value and cost of freedom. What is freedom? 
 > "I never thought that being sent to my death would turn out to be so utterly meaningless in the end."
 
 ![Comrades](images/comrades.png)
-> "Do you see them? Our comrades? They want to know what became of the hearts they gave."
+> "Do you see them? Our comrades? They want to know what became of the hearts they gave up."
 
 Why do people give up their lives for what they believe in? Even when they know their individual deaths would have a marginal impact? Attack on Titan shows you what it means to die for a cause and grapples with the morality of war.
 

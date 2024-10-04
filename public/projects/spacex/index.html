@@ -108,7 +108,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "374"
+    "wordCount": "723"
   }]
   </script>
 
@@ -526,7 +526,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-09-29T00:00:00&#43;00:00">29 September 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
+  <time datetime="2024-09-29T00:00:00&#43;00:00">29 September 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">4 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -600,14 +600,20 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#what-i-learned">What I learned</a></li>
+    <li><a href="#why-spacex-is-even-cooler-than-i-imagined">Why SpaceX is even cooler than I imagined</a>
       <ul>
-        <li><a href="#v2-mini">V2 Mini</a></li>
-        <li><a href="#direct-to-cell">Direct-to-Cell</a></li>
+        <li><a href="#rockets">Rockets</a></li>
+        <li><a href="#starlink">Starlink</a>
+          <ul>
+            <li><a href="#v2-mini">V2 Mini</a></li>
+            <li><a href="#direct-to-cell">Direct-to-Cell</a></li>
+          </ul>
+        </li>
+        <li><a href="#phased-arrays">Phased Arrays</a></li>
+        <li><a href="#deploy-footage">Deploy Footage</a></li>
       </ul>
     </li>
-    <li><a href="#phased-arrays">Phased Arrays</a></li>
-    <li><a href="#deploy-footage">Deploy Footage</a></li>
   </ul>
 </nav>
   </div>
@@ -621,14 +627,20 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#what-i-learned">What I learned</a></li>
+    <li><a href="#why-spacex-is-even-cooler-than-i-imagined">Why SpaceX is even cooler than I imagined</a>
       <ul>
-        <li><a href="#v2-mini">V2 Mini</a></li>
-        <li><a href="#direct-to-cell">Direct-to-Cell</a></li>
+        <li><a href="#rockets">Rockets</a></li>
+        <li><a href="#starlink">Starlink</a>
+          <ul>
+            <li><a href="#v2-mini">V2 Mini</a></li>
+            <li><a href="#direct-to-cell">Direct-to-Cell</a></li>
+          </ul>
+        </li>
+        <li><a href="#phased-arrays">Phased Arrays</a></li>
+        <li><a href="#deploy-footage">Deploy Footage</a></li>
       </ul>
     </li>
-    <li><a href="#phased-arrays">Phased Arrays</a></li>
-    <li><a href="#deploy-footage">Deploy Footage</a></li>
   </ul>
 </nav>
   </div>
@@ -675,7 +687,117 @@
           <p>Last summer, I had the opportunity to intern at SpaceX, which is in my opinion the coolest company in the world. I worked on a Starshield team, which does government and defense satellites, so I can&rsquo;t talk about any specifics of my internship. So instead I&rsquo;d like to focus on why SpaceX is such an incredible company and what I learned from this internship.</p>
 
 
-<h1 class="relative group">Starlink 
+<h2 class="relative group">What I learned 
+    <div id="what-i-learned" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#what-i-learned" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>As a sort of final project of my internship, I designed a custom PCB fastener for a Starshield satellite. I determined the design criteria including board strain, TIM strain, gasket compression, tolerances, structural loading, and RF packaging requirements. I analyzed my fastener arrangement in FEMAP, determined the boundary conditions and sized for shipping and ascent, orbit, and connector installation. I analyzed many fastener arrangements and radiator stiffnesses to justify my design. Additionally, I analyzed the axial and lateral tolerance stackups, accounting for the worst case CTE mismatches across hot and cold cases, swept across time and beta angle. I presented a design criteria review and preliminary design review, then handed off my work to the Starshield team. While working at SpaceX I learned how to analyze bolted joints, fatigue analysis using NASGRO, tolerance stackups with thermal loading, and dynamic loading, which generally helped me understand what truly rigorous mechanical engineering looks like.</p>
+<p>More generally, I had two major takeways:</p>
+<ul>
+<li>ask experienced people for advice on direction (what to work on, what approach to take, etc) rather than technical support</li>
+<li>if you can answer the key questions with physical testing, you should.</li>
+</ul>
+
+
+<h2 class="relative group">Why SpaceX is even cooler than I imagined 
+    <div id="why-spacex-is-even-cooler-than-i-imagined" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#why-spacex-is-even-cooler-than-i-imagined" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Rockets 
+    <div id="rockets" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#rockets" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>This stuff is just so inspiring and unbelievable.</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Q_s_7iTydYU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/j2BdNDTlWbo?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/5_DZtCYhdXc?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<p>It sounds insane, but I actually believe SpaceX will build a self-sustaining civilization on Mars within our lifetimes, given the rate of progress that they&rsquo;ve been making.</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/921VbEMAwwY?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<p>Don&rsquo;t even get me started on Raptor.</p>
+<p>Just look at the visual difference between the Raptor 3 and the next best rocket engine out there. Stoke space is the only other company with a full flow staged combustion engine, which is the <a href="https://youtu.be/LbH1ZDImaI8" target="_blank">holy grail of rocket engine architectures</a>.</p>
+<p>
+    <figure>
+      <img
+        class="my-0 rounded-md"
+        loading="lazy"
+        srcset="
+        /projects/spacex/images/raptor3_firing_hu748758627880831978.jpeg 330w,
+        /projects/spacex/images/raptor3_firing_hu8940254863848048386.jpeg 660w,
+        /projects/spacex/images/raptor3_firing_hu8312683957983169832.jpeg 1024w,
+        /projects/spacex/images/raptor3_firing_hu18052559637270891313.jpeg 2x"
+        src="/projects/spacex/images/raptor3_firing_hu8940254863848048386.jpeg"
+        alt="raptor3"
+      />
+      
+    </figure>
+</p>
+<p>
+    <figure>
+      <img
+        class="my-0 rounded-md"
+        loading="lazy"
+        srcset="
+        /projects/spacex/images/stoke_hu6080111381316056672.jpg 330w,
+        /projects/spacex/images/stoke_hu5204493215061352121.jpg 660w,
+        /projects/spacex/images/stoke_hu60474103185294183.jpg 1024w,
+        /projects/spacex/images/stoke_hu7148812674415954502.jpg 2x"
+        src="/projects/spacex/images/stoke_hu5204493215061352121.jpg"
+        alt="stoke"
+      />
+      
+    </figure>
+</p>
+
+
+<h3 class="relative group">Starlink 
     <div id="starlink" class="anchor"></div>
     
     <span
@@ -684,8 +806,9 @@
             style="text-decoration-line: none !important;" href="#starlink" aria-label="Anchor">#</a>
     </span>        
     
-</h1>
-<p>There are currently almost 7,000 starlink satellites in orbit. Look at them here: <a href="https://satellitemap.space/?constellation=starlink#" target="_blank">https://satellitemap.space/?constellation=starlink#</a></p>
+</h3>
+<p>I think people generally don&rsquo;t realize how revolutionary of a technology Starlink is. I think it&rsquo;s more likely than not that in our lifetimes, almost all internet will be broadcasted from space. There&rsquo;s a reason that the majority of SpaceX&rsquo;s launches have been exclusively launching starlink satellites. The biggest payoff in the short term for Falcon 9 and reusable rocket technology is making enormous satellite networks like Starlink possible.</p>
+<p>There are currently almost 7,000 starlink satellites in orbit. You can see them here: <a href="https://satellitemap.space/?constellation=starlink#" target="_blank">https://satellitemap.space/?constellation=starlink#</a></p>
 <p>These are the summary of global orbital space launches in Q1 of 2024, as <a href="https://brycetech.com/reports/report-documents/Bryce_Briefing_2024_Q1.pdf" target="_blank">reported</a> by Bryce Tech. In 14 weeks, SpaceX had 31 launches and put 525 spacecraft into orbit.  This is more than an order of magnitude higher than China and Russia&rsquo;s space programs put together! It&rsquo;s hard to grasp how dominant SpaceX is.</p>
 <p>That&rsquo;s more than two rocket launches and 40 satellites per week! How can you manufacture 40 satellites (each costing millions of dollars) and 2 rockets ($70 million per launch) every week, where the slightest quality control defect can result in complete mission failure?</p>
 <p>SpaceX had their <a href="https://www.space.com/spacex-finds-cause-falcon-9-rocket-failure" target="_blank">first mission failure</a> since June 2015 in July 11, 2024. The engineering rigor needed to see these levels of reliability and performance is simply absurd.</p>
@@ -723,7 +846,7 @@
 </p>
 
 
-<h3 class="relative group">V2 Mini 
+<h4 class="relative group">V2 Mini 
     <div id="v2-mini" class="anchor"></div>
     
     <span
@@ -732,7 +855,7 @@
             style="text-decoration-line: none !important;" href="#v2-mini" aria-label="Anchor">#</a>
     </span>        
     
-</h3>
+</h4>
 <p>The satellites have been designed to stack tightly to pack a ton of satellites in a rocket, while deploying their two massive dual axis solar arrays and electronics on orbit. The satellites are extremely lightweight and compact as a result.</p>
 <p>
     <figure>
@@ -768,7 +891,7 @@
 </p>
 
 
-<h3 class="relative group">Direct-to-Cell 
+<h4 class="relative group">Direct-to-Cell 
     <div id="direct-to-cell" class="anchor"></div>
     
     <span
@@ -777,7 +900,7 @@
             style="text-decoration-line: none !important;" href="#direct-to-cell" aria-label="Anchor">#</a>
     </span>        
     
-</h3>
+</h4>
 <p>
     <figure>
       <img
@@ -796,7 +919,7 @@
 </p>
 
 
-<h2 class="relative group">Phased Arrays 
+<h3 class="relative group">Phased Arrays 
     <div id="phased-arrays" class="anchor"></div>
     
     <span
@@ -805,7 +928,7 @@
             style="text-decoration-line: none !important;" href="#phased-arrays" aria-label="Anchor">#</a>
     </span>        
     
-</h2>
+</h3>
 <p>SpaceX provides internet to users through <em>phased arrays</em>. These are PCBs with evenly spaced antennae elements that are fired in a precise sequence to generate a RF beam that can be steered with mind-breaking precision. This allows a satellite the size of a car orbiting at 18,000 mph trying to communicate with a laptop-sized PCB mounted to someone&rsquo;s roof or a boat in the middle of the Pacific. Here are some cool visuals of phased arrays from <a href="https://en.wikipedia.org/wiki/Phased_array" target="_blank">wikipedia</a>:</p>
 <p>
   <figure>
@@ -817,7 +940,7 @@
 " frameborder="0" allowfullscreen></iframe>
 
 
-<h2 class="relative group">Deploy Footage 
+<h3 class="relative group">Deploy Footage 
     <div id="deploy-footage" class="anchor"></div>
     
     <span
@@ -826,8 +949,7 @@
             style="text-decoration-line: none !important;" href="#deploy-footage" aria-label="Anchor">#</a>
     </span>        
     
-</h2>
-<p>This looks like something out of a science fiction movie.</p>
+</h3>
 <blockquote class="twitter-tweet" data-media-max-width="1920"><p lang="en" dir="ltr">Video of last night’s <a href="https://twitter.com/Starlink?ref_src=twsrc%5Etfw">@Starlink</a> satellite deployment <a href="https://t.co/K7ezZLLusz">pic.twitter.com/K7ezZLLusz</a></p>&mdash; SpaceX (@SpaceX) <a href="https://twitter.com/SpaceX/status/1703132464712237216?ref_src=twsrc%5Etfw">September 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-media-max-width="1920"><p lang="en" dir="ltr">First Starlink v2 satellites reach orbit <a href="https://t.co/0l08568mJ9">pic.twitter.com/0l08568mJ9</a></p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1630394434847227909?ref_src=twsrc%5Etfw">February 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

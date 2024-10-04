@@ -24,8 +24,18 @@
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/rants/racecar/</guid>
-      <description>Why working hard is worth it</description>
+      <description>The only way to find your limit</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/racecar/featured.png" />
+    </item>
+    
+    <item>
+      <title>Free Listening</title>
+      <link>http://localhost:1313/rants/listening/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/listening/</guid>
+      <description>What it means to be a good person</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/listening/featured.jpg" />
     </item>
     
     <item>
@@ -44,7 +54,7 @@
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/rants/aot/</guid>
-      <description>Why you need to watch Attack on Titan</description>
+      <description>Attack on Titan: war, humanity, and the value of life</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/aot/featured.png" />
     </item>
     
