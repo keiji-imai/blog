@@ -6,7 +6,17 @@
     <description>Recent content in Unlisted on Keiji Imai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
+    <copyright>© 2025 </copyright>
     <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/unlisted/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Therapy</title>
+      <link>http://localhost:1313/unlisted/therapy/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/unlisted/therapy/</guid>
+      <description>How to be a therapist for yourself and people you care about</description>
+      
+    </item>
+    
   </channel>
 </rss>

@@ -6,8 +6,18 @@
     <description>Recent content on Keiji Imai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynastic China</title>
+      <link>http://localhost:1313/posts/dynastic/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/dynastic/</guid>
+      <description>Who knew history classes could be this good</description>
+      
+    </item>
+    
     <item>
       <title>Starshield</title>
       <link>http://localhost:1313/projects/spacex/</link>
@@ -46,6 +56,16 @@
       <guid>http://localhost:1313/rants/voice/</guid>
       <description>A beautiful movie about depression</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/voice/featured.png" />
+    </item>
+    
+    <item>
+      <title>Therapy</title>
+      <link>http://localhost:1313/unlisted/therapy/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/unlisted/therapy/</guid>
+      <description>How to be a therapist for yourself and people you care about</description>
+      
     </item>
     
     <item>
@@ -89,6 +109,16 @@
     </item>
     
     <item>
+      <title>In Praise of Long Fiction</title>
+      <link>http://localhost:1313/rants/fiction/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/fiction/</guid>
+      <description>Why reading fiction books and watching TV shows isn&amp;rsquo;t a waste of time</description>
+      
+    </item>
+    
+    <item>
       <title>Front Wing Mounting</title>
       <link>http://localhost:1313/projects/fwm/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
@@ -96,6 +126,16 @@
       <guid>http://localhost:1313/projects/fwm/</guid>
       <description>Learning to design efficiently using hand calcs</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fwm/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Why Join FSAE</title>
+      <link>http://localhost:1313/posts/fsae/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fsae/</guid>
+      <description>A story about my first MIT Motorsports competition</description>
+      
     </item>
     
     <item>
@@ -206,6 +246,16 @@
       <guid>http://localhost:1313/posts/chessbot/</guid>
       <description>What if your chess board could roast you</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chessbot/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>On RoboCupJunior</title>
+      <link>http://localhost:1313/posts/rcj/</link>
+      <pubDate>Wed, 28 Sep 2022 18:25:02 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/rcj/</guid>
+      <description>The best high school robotics competition you&amp;rsquo;ve never heard of</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/rcj/featured.jpeg" />
     </item>
     
     <item>
