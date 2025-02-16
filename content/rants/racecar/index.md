@@ -2,8 +2,8 @@
 title: "Dancing on the Edge"
 date: 2024-04-12
 draft: False
-description: "The only way to find your limit"
-summary: "The only way to find your limit"
+description: "On working too hard"
+summary: "On working too hard"
 ---
 
 To be a good Formula One driver, you first need to beat your teammate. Nobody else has the same car — they are the one driver you have no excuse for losing to. Unfortunately for Nico Rosberg, his teammate was Lewis Hamilton, his childhood friend and reigning two-time world champion. 
