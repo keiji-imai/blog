@@ -14,7 +14,7 @@
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/rants/racecar/</guid>
-      <description>The only way to find your limit</description>
+      <description>On working too hard</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/racecar/featured.png" />
     </item>
     
@@ -46,16 +46,6 @@
       <guid>http://localhost:1313/rants/aot/</guid>
       <description>Attack on Titan: war, humanity, and the value of life</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/aot/featured.png" />
-    </item>
-    
-    <item>
-      <title>In Praise of Long Fiction</title>
-      <link>http://localhost:1313/rants/fiction/</link>
-      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/rants/fiction/</guid>
-      <description>Why reading fiction books and watching TV shows isn&amp;rsquo;t a waste of time</description>
-      
     </item>
     
     <item>

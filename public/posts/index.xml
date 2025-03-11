@@ -14,18 +14,8 @@
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/dynastic/</guid>
-      <description>Who knew history classes could be this good</description>
-      
-    </item>
-    
-    <item>
-      <title>Why Join FSAE</title>
-      <link>http://localhost:1313/posts/fsae/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/fsae/</guid>
-      <description>A story about my first MIT Motorsports competition</description>
-      
+      <description>Over 2000 years of history in one class</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dynastic/featured.jpg" />
     </item>
     
     <item>
@@ -106,16 +96,6 @@
       <guid>http://localhost:1313/posts/chessbot/</guid>
       <description>What if your chess board could roast you</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chessbot/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>On RoboCupJunior</title>
-      <link>http://localhost:1313/posts/rcj/</link>
-      <pubDate>Wed, 28 Sep 2022 18:25:02 -0400</pubDate>
-      
-      <guid>http://localhost:1313/posts/rcj/</guid>
-      <description>The best high school robotics competition you&amp;rsquo;ve never heard of</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/rcj/featured.jpeg" />
     </item>
     
   </channel>
