@@ -2,11 +2,11 @@
 title: "To You, 2000 Years From Now"
 date: 2023-11-23
 draft: False
-description: "Attack on Titan: war, humanity, and the value of life"
-summary: "Attack on Titan: war, humanity, and the value of life"
+description: "AoT and the tragic beauty of life"
+summary: "AoT and the tragic beauty of life"
 ---
 
-Here's my spoiler-free rant on why you need to watch the anime Attack on Titan.
+Here's my spoiler-free rant on why the anime Attack on Titan is the best tv/anime I've experienced.
 
 ## Intro
 

@@ -7,10 +7,10 @@ summary: "Three reasons why this website exists"
 ---
 
 
-I had no plans of making a blog a few months ago. Here are the reasons that changed my mind.
+I had no plans of making a blog a few months ago. Here's what changed my mind.
 
 ## For Inspiration
-Blogs can inspire people. Let me explain how.
+Blogs can inspire people.
 
 Inspiration has two ingredients. First, you have to see something awesome. Then you need to convince yourself that you can do it.
 

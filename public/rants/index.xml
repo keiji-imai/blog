@@ -24,7 +24,7 @@
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/rants/listening/</guid>
-      <description>What it means to be a good person</description>
+      <description>Am I a good person?</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/listening/featured.jpg" />
     </item>
     
@@ -44,7 +44,7 @@
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/rants/aot/</guid>
-      <description>Attack on Titan: war, humanity, and the value of life</description>
+      <description>AoT and the tragic beauty of life</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/aot/featured.png" />
     </item>
     
@@ -54,7 +54,7 @@
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/rants/highschool/</guid>
-      <description>Things that I wish I had known</description>
+      <description>Advice for high school me</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/highschool/featured.jpg" />
     </item>
     

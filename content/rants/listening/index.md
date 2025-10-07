@@ -2,8 +2,8 @@
 title: "Free Listening"
 date: 2024-04-12
 draft: False
-description: "What it means to be a good person"
-summary: "What it means to be a good person"
+description: "Am I a good person?"
+summary: "Am I a good person?"
 ---
 
 I wrote the following essay for a class, 21W.735 Reading and Writing the Essay (one of my all time favorite classes). It got [published](https://thetech.com/2024/06/13/free-listening) in MIT's newspaper, the Tech! (but please read it here because I've made some minor edits)

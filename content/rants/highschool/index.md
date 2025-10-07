@@ -2,8 +2,8 @@
 title: "High School"
 date: 2023-03-25
 draft: False
-description: "Things that I wish I had known"
-summary: "Things that I wish I had known"
+description: "Advice for high school me"
+summary: "Advice for high school me"
 ---
 
 A lot of people ask me how I got into MIT. I'll show my appreciation for the people who gave me excellent advice by trying to pay it forward --- the following is an essay about my own advice for high school students. But first, please read [Paul Graham's essay](http://paulgraham.com/hs.html) about high school. It's really good and you won't regret it.

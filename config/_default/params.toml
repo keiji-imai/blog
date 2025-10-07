@@ -26,10 +26,10 @@ mainSections = ["projects"]
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/laugh_square.jpg" # used in: hero, and card
+  layout = "card" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/neptune.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 20
+  showRecentItems = 50
   showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = true
@@ -70,9 +70,9 @@ mainSections = ["projects"]
   #showViews = false
   #showLikes = false
   showTableOfContents = false
-  showCards = true
+  showCards = false
   groupByYear = true
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
 
 [sitemap]
