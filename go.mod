@@ -2,4 +2,4 @@ module github.com/keiji-imai/blog
 
 go 1.22
 
-require github.com/nunocoracao/blowfish/v2 v2.77.1 // indirect
+require github.com/nunocoracao/blowfish/v2 v2.91.0 // indirect

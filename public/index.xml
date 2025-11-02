@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Minded Music Taste</title>
+      <link>http://localhost:1313/rants/music/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/music/</guid>
+      <description>100 songs with &amp;lsquo;dream&amp;rsquo; in the title</description>
+      
+    </item>
+    
     <item>
       <title>Racecar Suspension</title>
       <link>http://localhost:1313/projects/suspension/</link>

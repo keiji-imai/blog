@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rants/music/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rants/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -58,12 +70,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/rants/listening/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rants/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
