@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
-theme = "blowfish"
+# theme = "blowfish"
 baseURL = "https://kogappa.com/"
 defaultContentLanguage = "en"
 
@@ -33,3 +33,4 @@ googleAnalytics = "G-ECNM3T7Q6V"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  

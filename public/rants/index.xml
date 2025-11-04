@@ -10,13 +10,13 @@
     <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/rants/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Open Minded Music Taste</title>
+      <title>The Fools Who Dream</title>
       <link>http://localhost:1313/rants/music/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/rants/music/</guid>
-      <description>100 songs with &amp;lsquo;dream&amp;rsquo; in the title</description>
-      
+      <description>Appreciating music with an open mind</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/music/featured.jpg" />
     </item>
     
     <item>
@@ -40,23 +40,13 @@
     </item>
     
     <item>
-      <title>Shape of Voice</title>
-      <link>http://localhost:1313/rants/voice/</link>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <title>In Praise of Long Fiction</title>
+      <link>http://localhost:1313/rants/fiction/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/rants/voice/</guid>
-      <description>A beautiful movie about depression</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/voice/featured.png" />
-    </item>
-    
-    <item>
-      <title>To You, 2000 Years From Now</title>
-      <link>http://localhost:1313/rants/aot/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rants/fiction/</guid>
+      <description>Why reading fiction books and watching TV shows isn&amp;rsquo;t a waste of time</description>
       
-      <guid>http://localhost:1313/rants/aot/</guid>
-      <description>AoT and the tragic beauty of life</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/aot/featured.png" />
     </item>
     
     <item>
@@ -67,16 +57,6 @@
       <guid>http://localhost:1313/rants/highschool/</guid>
       <description>Advice for high school me</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/highschool/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Why Blog?</title>
-      <link>http://localhost:1313/rants/whyblog/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/rants/whyblog/</guid>
-      <description>Three reasons why this website exists</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/whyblog/featured.jpg" />
     </item>
     
   </channel>

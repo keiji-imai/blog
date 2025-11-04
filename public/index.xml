@@ -10,13 +10,13 @@
     <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Open Minded Music Taste</title>
+      <title>The Fools Who Dream</title>
       <link>http://localhost:1313/rants/music/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/rants/music/</guid>
-      <description>100 songs with &amp;lsquo;dream&amp;rsquo; in the title</description>
-      
+      <description>Appreciating music with an open mind</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/music/featured.jpg" />
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/spacex/</guid>
-      <description>What I learned interning at SpaceX</description>
+      <description>Building satellites at SpaceX</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/spacex/featured.png" />
     </item>
     
@@ -71,22 +71,22 @@
     
     <item>
       <title>Shape of Voice</title>
-      <link>http://localhost:1313/rants/voice/</link>
+      <link>http://localhost:1313/posts/voice/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/rants/voice/</guid>
+      <guid>http://localhost:1313/posts/voice/</guid>
       <description>A beautiful movie about depression</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/voice/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voice/featured.png" />
     </item>
     
     <item>
       <title>To You, 2000 Years From Now</title>
-      <link>http://localhost:1313/rants/aot/</link>
+      <link>http://localhost:1313/posts/aot/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/rants/aot/</guid>
+      <guid>http://localhost:1313/posts/aot/</guid>
       <description>AoT and the tragic beauty of life</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/aot/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aot/featured.png" />
     </item>
     
     <item>
@@ -120,6 +120,16 @@
     </item>
     
     <item>
+      <title>In Praise of Long Fiction</title>
+      <link>http://localhost:1313/rants/fiction/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/fiction/</guid>
+      <description>Why reading fiction books and watching TV shows isn&amp;rsquo;t a waste of time</description>
+      
+    </item>
+    
+    <item>
       <title>Front Wing Mounting</title>
       <link>http://localhost:1313/projects/fwm/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
@@ -127,6 +137,16 @@
       <guid>http://localhost:1313/projects/fwm/</guid>
       <description>Learning to design efficiently using hand calcs</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fwm/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Why Join FSAE</title>
+      <link>http://localhost:1313/posts/fsae/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fsae/</guid>
+      <description>A story about my first MIT Motorsports competition</description>
+      
     </item>
     
     <item>
@@ -240,13 +260,23 @@
     </item>
     
     <item>
+      <title>On RoboCupJunior</title>
+      <link>http://localhost:1313/posts/rcj/</link>
+      <pubDate>Wed, 28 Sep 2022 18:25:02 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/rcj/</guid>
+      <description>The best high school robotics competition you&amp;rsquo;ve never heard of</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/rcj/featured.jpeg" />
+    </item>
+    
+    <item>
       <title>Why Blog?</title>
-      <link>http://localhost:1313/rants/whyblog/</link>
+      <link>http://localhost:1313/posts/whyblog/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/rants/whyblog/</guid>
+      <guid>http://localhost:1313/posts/whyblog/</guid>
       <description>Three reasons why this website exists</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/whyblog/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/whyblog/featured.jpg" />
     </item>
     
     <item>

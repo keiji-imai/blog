@@ -2,18 +2,18 @@
 title: Starshield
 date: 2024-09-29
 draft: False
-description: "What I learned interning at SpaceX"
-summary: "What I learned interning at SpaceX"
+description: "Building satellites at SpaceX"
+summary: "Building satellites at SpaceX"
 ---
 
 Last summer, I had the opportunity to intern at SpaceX, which is in my opinion the coolest company in the world. I worked on a Starshield team, which does government and defense satellites, so I can't talk about any specifics of my internship. So instead I'd like to focus on why SpaceX is such an incredible company and what I learned from this internship.
 
 ## What I learned
 
-As a sort of final project of my internship, I designed a custom PCB fastener for a Starshield satellite. I determined the design criteria including board strain, TIM strain, gasket compression, tolerances, structural loading, and RF packaging requirements. I analyzed my fastener arrangement in FEMAP, determined the boundary conditions and sized for shipping and ascent, orbit, and connector installation. I analyzed many fastener arrangements and radiator stiffnesses to justify my design. Additionally, I analyzed the axial and lateral tolerance stackups, accounting for the worst case CTE mismatches across hot and cold cases, swept across time and beta angle. I presented a design criteria review and preliminary design review, then handed off my work to the Starshield team. While working at SpaceX I learned how to analyze bolted joints, fatigue analysis using NASGRO, tolerance stackups with thermal loading, and dynamic loading, which generally helped me understand what truly rigorous mechanical engineering looks like.
+As a sort of final project of my internship, I designed a custom fastener for a Starshield satellite. While working at SpaceX I learned how to analyze bolted joints, fatigue analysis of cracks and dynamic loading, tolerance stackups with coefficient of thermal expansion mismatches, and apply finite element simulations, which generally helped me understand what rigorous aerospace engineering is like.
 
-More generally, I had two major takeways:
-- ask experienced people for advice on direction (what to work on, what approach to take, etc) rather than technical support
+I mainly had two general lessons:
+- ask experienced people for more advice on direction + feedback (what to work on, what approach to take, etc) not just technical questions
 - if you can answer the key questions with physical testing, you should.
 
 

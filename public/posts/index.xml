@@ -20,6 +20,36 @@
     </item>
     
     <item>
+      <title>Shape of Voice</title>
+      <link>http://localhost:1313/posts/voice/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/voice/</guid>
+      <description>A beautiful movie about depression</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voice/featured.png" />
+    </item>
+    
+    <item>
+      <title>To You, 2000 Years From Now</title>
+      <link>http://localhost:1313/posts/aot/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/aot/</guid>
+      <description>AoT and the tragic beauty of life</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aot/featured.png" />
+    </item>
+    
+    <item>
+      <title>Why Join FSAE</title>
+      <link>http://localhost:1313/posts/fsae/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fsae/</guid>
+      <description>A story about my first MIT Motorsports competition</description>
+      
+    </item>
+    
+    <item>
       <title>Creating a Blog</title>
       <link>http://localhost:1313/posts/blog/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
@@ -97,6 +127,26 @@
       <guid>http://localhost:1313/posts/chessbot/</guid>
       <description>What if your chess board could roast you</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chessbot/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>On RoboCupJunior</title>
+      <link>http://localhost:1313/posts/rcj/</link>
+      <pubDate>Wed, 28 Sep 2022 18:25:02 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/rcj/</guid>
+      <description>The best high school robotics competition you&amp;rsquo;ve never heard of</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/rcj/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Why Blog?</title>
+      <link>http://localhost:1313/posts/whyblog/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/whyblog/</guid>
+      <description>Three reasons why this website exists</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/whyblog/featured.jpg" />
     </item>
     
   </channel>

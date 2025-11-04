@@ -1,9 +1,9 @@
 ---
-title: "Open Minded Music Taste"
+title: "The Fools Who Dream"
 date: 2025-10-19
-draft: False
-description: "100 songs with 'dream' in the title"
-summary: "100 songs with 'dream' in the title"
+draft: True
+description: "Appreciating music with an open mind"
+summary: "Appreciating music with an open mind"
 ---
 
 My high school music taste was pretentious as hell. I had convinced myself that any song with lyrics was categorically bad; putting words into my brain made it harder for me to think for myself and distracted me from studying. I only listened to three playlists: [classical](https://open.spotify.com/playlist/4EnWawaGZZ83bR6U5vUb4D?si=9b36acd201ba42e3), [jazz](https://open.spotify.com/playlist/6cjB2XFf7Nnoo7OwQOSy6C?si=bbf77b0c2a80428a), and [EDM](https://open.spotify.com/playlist/3g0x0zFtnL6Zm94nUaxwOj?si=b166aa2669e44460)[^1]. And I basically judged everyone for listening to anything else.
