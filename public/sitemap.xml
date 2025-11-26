@@ -9,12 +9,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rants/music/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/rants/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -105,20 +99,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rants/fiction/</loc>
-    <lastmod>2023-05-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/projects/fwm/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/fsae/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -191,12 +173,6 @@
   <url>
     <loc>http://localhost:1313/posts/chessbot/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/rcj/</loc>
-    <lastmod>2022-09-28T18:25:02-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

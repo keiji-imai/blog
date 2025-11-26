@@ -25,6 +25,18 @@
   pageRef = "rants"
   weight = 10
 
+[[main]]
+  name = "Notes"
+  url = "https://notes.kogappa.com"
+  weight = 10
+
+[[main]]
+  identifier = "Youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/@kogappa_kg"
+  weight = 40
+
+
 #[[main]]
 #  name = "Categories"
 #  pageRef = "categories"
@@ -40,6 +52,10 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
+[[footer]]
+  name = "Anonymous Feedback"
+  url = "https://www.admonymous.co/keiji"
+  weight = 10
 
 # [[footer]]
 #   name = "Tags"

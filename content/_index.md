@@ -4,4 +4,8 @@ description: "Keiji Imai's website"
 draft: false
 ---
 
-Hi, I'm Keiji. I love building robots and racecars and satellites and that sorta thing. I'm currently working at a general purpose robotics startup in London that I think might change the world. I publish most of my personal notes at [notes.kogappa.com](https://notes.kogappa.com/). I love meeting new people and welcome [criticism, disagreement, and suggestions](https://www.admonymous.co/keiji); please send me a discord message (username `kogappa`) or shoot me an email (keijii@mit.edu) if you'd like to talk about anything at all.
+Hi, I'm Keiji. I'm working in London making a trustworthy and useful robot for the home. I love [music](https://notes.kogappa.com/_vault/general/media/music), [movies](https://notes.kogappa.com/_vault/general/media/movies), [shows](https://notes.kogappa.com/_vault/general/media/shows), [games](https://notes.kogappa.com/_vault/general/media/games), [books](https://notes.kogappa.com/_vault/general/media/books), reading and writing [essays](https://notes.kogappa.com/_vault/general/media/essays), and making beautiful things.
+
+
+If you want to chat, please don't hesitate to reach out (discord username `kogappa`, email keijii@mit.edu) — I love meeting new people.
+
