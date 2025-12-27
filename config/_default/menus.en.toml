@@ -36,6 +36,17 @@
   url = "https://www.youtube.com/@kogappa_kg"
   weight = 40
 
+[[main]]
+  identifier = "Substack"
+  pre = "substack"
+  url = "https://substack.com/@kogappa?"
+  weight = 40
+
+[[main]]
+  identifier = "Twitter"
+  pre = "x-twitter"
+  url = "https://x.com/imai_keiji"
+  weight = 40
 
 #[[main]]
 #  name = "Categories"

@@ -10,7 +10,7 @@ I wrote the following essay for a class, 21W.735 Reading and Writing the Essay (
 
 ****
 
-A strange loneliness crept over me when I noticed the man with a "Free Listening" sign sitting on the steps of Lobby 7. It occurred to me that I had approached him the day before because nobody else sincerely wanted to talk to me. As I stood there, waiting for my next Campus Preview Weekend (CPW) event, I wondered if I would be able to form lasting friendships in college. Eventually I built up the courage to talk to him again.
+A strange loneliness crept over me as I noticed the man with a "Free Listening" sign sitting on the steps of Lobby 7. I had approached him the day before because I was feeling like nobody I'd been talking to actually wanted to talk to me. As I stood there, waiting for my next Campus Preview Weekend (CPW) event, I wondered if I would be able to form lasting friendships in college. Eventually I built up the courage to talk to him again.
 
 "Hey, how's it going?"
 
