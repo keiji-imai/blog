@@ -2,8 +2,8 @@
 title: "Free Listening"
 date: 2024-04-12
 draft: False
-description: "Am I a good person?"
-summary: "Am I a good person?"
+description: "On what it means to be a good person"
+summary: "On what it means to be a good person"
 ---
 
 A strange loneliness crept over me as I noticed the man with a "Free Listening" sign sitting on the steps of Lobby 7 during Campus Preview Weekend. I had approached him the day before having felt a similar feeling. I didn't know if I would be able to form real friendships in college. After standing around for a while, I eventually built up the courage to talk to him again.
