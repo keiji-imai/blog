@@ -6,11 +6,7 @@ description: "Am I a good person?"
 summary: "Am I a good person?"
 ---
 
-I wrote the following essay for a class, 21W.735 Reading and Writing the Essay (one of my all time favorite classes). It got [published](https://thetech.com/2024/06/13/free-listening) in MIT's newspaper, the Tech! (but please read it here because I've made some minor edits)
-
-****
-
-A strange loneliness crept over me as I noticed the man with a "Free Listening" sign sitting on the steps of Lobby 7. I had approached him the day before because I was feeling like nobody I'd been talking to actually wanted to talk to me. As I stood there, waiting for my next Campus Preview Weekend (CPW) event, I wondered if I would be able to form lasting friendships in college. Eventually I built up the courage to talk to him again.
+A strange loneliness crept over me as I noticed the man with a "Free Listening" sign sitting on the steps of Lobby 7 during Campus Preview Weekend. I had approached him the day before having felt a similar feeling. I didn't know if I would be able to form real friendships in college. After standing around for a while, I eventually built up the courage to talk to him again.
 
 "Hey, how's it going?"
 
@@ -48,7 +44,7 @@ I hadn't thought about that before.
 
 He thought about that for a second, then said, "You know, I think people are like trees. When you're young, you need to focus on growing. Eventually, you'll become a big tree and you can give back. It's okay to focus on yourself right now."
 
-Two years later, I sometimes remember my conversation with the “free listening” man, who goes by Kip, and think about what it means to me to be a good person. The conversation made me realize that I don't necessarily have to feel bad about doing things to benefit myself. Prioritizing my classes and projects allows me to become an engineer who can change the world for the better, and choosing an impactful career makes my studying about something bigger than myself.
+Two years later, I sometimes remember my conversation with Kip, the “free listening” man, and think about what it means to me to be a good person. The conversation made me realize that I don't necessarily have to feel bad about doing things to benefit myself. Prioritizing my classes and projects allows me to become an engineer who can change the world for the better, and choosing an impactful career makes my studying about something bigger than myself.
 
 I wasn't upset about not doing enough for the world though — I felt bad about doing good things for selfish reasons. Couldn’t Kip also be doing it all for himself? What if he listened to strangers because it made him feel better about himself? Maybe everything that we do is self-serving at some level. But even if nothing is entirely selfless, at least listening feels genuine even if you derive personal fulfillment from it. Pursuing an impactful career because you want to feel good about the difference that you made in the world is still admirable. It’s possible to be self-serving and good, as long as I'm driven by my own principles more than external rewards. 
 
@@ -64,4 +60,8 @@ My understanding of what being a good person means has also changed throughout m
 
 Kip, on the other hand, cares about people so much that he wants to spend his afternoons listening to strangers. When you have a conversation with him, you can tell that he is enjoying it. He cares about you as a person, and he isn’t just doing it to make himself feel better. Being a good person has to come naturally: by living life and building empathy.
 
-Depression made me a better person by making me realize the value of listening. At the end of my sophomore year, I finally understood what Kip had told me during CPW. Real listening is not an abundant resource as I had once believed. It's a gift that can only be given by someone who sincerely cares about you. Listening is free yet also precious.
+Depression made me a better person by making me realize the value of listening. At the end of my sophomore year, I finally understood what Kip had told me during CPW. Real listening is not an abundant resource as I had once believed. It's a gift that can only be given by someone who sincerely cares about you. Maybe being a good person is really about free listening.
+
+****
+
+I wrote this essay for a class, 21W.735 Reading and Writing the Essay (one of my all time favorite classes). It got [published](https://thetech.com/2024/06/13/free-listening) in MIT's newspaper, the Tech!
