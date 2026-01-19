@@ -10,15 +10,15 @@ A lot of people ask me how I got into MIT. I'll show my appreciation for the peo
 
 ## Motivation is the bottleneck
 
-When I was in high school, my excuse for a lot of things was "I don't have time" or "I don't have the resources". I told myself that it wasn't my fault.
+When I was in high school, my excuse for a lot of things was "I don't have time" or "I don't have the resources". I basically told myself that it wasn't my fault that I wasn't doing them.
 
-I was wrong. I had plenty of time and resources. What I didn't have was motivation. If I *really* wanted to learn how to solve differential equations or build a CNC machine, I totally could have. At MIT I've met people who built [walking quadrupeds](https://www.youtube.com/watch?v=Sht5Nenk3Dg), [nuclear fusors](https://www.anhadsawhney.com/#/nuclear-fusor/), and [synchronous reluctance motors](https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/) in high school. These people aren't any more special or priviledged than you or me. They love what they do and worked really hard, every day, until they became really good at it.
+I was wrong. I had plenty of time and resources—what I didn't have was motivation. If I *really* wanted to learn how to solve differential equations or build a CNC machine, I actually could have. At MIT I've met people who built [walking quadrupeds](https://www.youtube.com/watch?v=Sht5Nenk3Dg), [nuclear fusors](https://www.anhadsawhney.com/#/nuclear-fusor/), and [synchronous reluctance motors](https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/) in high school. These people aren't any more special or privileged than I was. They loved what they were doing and worked really hard until they became really good at it.
 
 But how do you find motivation to work hard?
 
 You might think you need to have really strong discipline. But I have terrible discipline. I [procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) and get [distracted](https://www.youtube.com/watch?v=kyfb8lGAveY) whenever I have to do boring work, even when it's really important (homework, getting a driver's license, etc). 
 
-The way to work hard *without* needing strong discipline is to work on fun projects. Spend time on projects that are both challenging and exciting. Then the motivation will come naturally. You'll want to work on your project as much as possible. 
+The way to work hard *without* needing strong discipline is to work on fun projects. Spend time on projects that are both challenging and exciting. Then the motivation will come naturally and you'll want to work on your project as much as possible. 
 
 What if you don't know what you're passionate about? 
 
@@ -63,7 +63,7 @@ There are more high quality resources for learning programming than there are fo
 [Project Euler](https://projecteuler.net/) has really fun and challenging programming challenges that I recommend. For learning controls (how to program robots), check out these awesome [programming challenges](https://janismac.github.io/ControlChallenges/).
 
 ### Math Textbooks
-A lot of people think they are "bad at math". This is because most math teachers are terrible (this beautiful [essay](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) explains why). The internet comes to the rescue once again. [The Art of Problem Solving](https://artofproblemsolving.com/) sells *extraordinary* math textbooks. They also have a free online learning system called [Alcumulus](https://artofproblemsolving.com/alcumus). AoPS teaches you how to learn math by solving challenging problems and proving theorems, not just memorizing formulas and step-by-step solutions. Having completed almost all of the AoPS textbooks, I cannot recommend them enough. They are hard, but they will fundamentally change the way you think about math.
+A lot of people think they are "bad at math". This is because most math teachers are terrible (this beautiful [essay](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) explains why). The internet comes to the rescue once again. [The Art of Problem Solving](https://artofproblemsolving.com/) sells *extraordinary* math textbooks. They also have a free online learning system called [Alcumus](https://artofproblemsolving.com/alcumus). AoPS teaches you how to learn math by solving challenging problems and proving theorems, not just memorizing formulas and step-by-step solutions. Having completed almost all of the AoPS textbooks, I cannot recommend them enough. They are hard, but they will fundamentally change the way you think about math.
 
 ### Robotics
 If your high school has a robotics team and you like robots, you should join. You can also [start your own team](https://www.firstinspires.org/robotics/frc/start-a-team). The advantage of starting your own team is that you decide the team culture. In my experience, team culture is the biggest contributor to success in robotics competitions. As I've mentioned before, building robots is way more fun when you do it with friends, and the competition is a strong motivator. 
@@ -75,7 +75,7 @@ For learning how to design robots (or other things) with Computer-Aided Design (
 You can build almost anything with just a 3D printer. If you have the money, I *highly* recommend [Prusa machines](https://www.prusa3d.com/category/3d-printers/), because the reliability and print quality is unmatched. Cheap 3D printers are tempting, but be warned that they require a ton of maintenance and upgrades (I learned this the hard way). If you want a challenge, try building a high performance 3D printer. I recommend [RatRig](https://ratrig.com/3d-printers.html) and [Voron](https://vorondesign.com/). It's intimidating, but there are entire [discord communities](https://discord.gg/ratrig) and youtube channels on your side. 
 
 ### Machining
-Making metal parts is really cool. For a couple grand you can buy a CNC router, which is very valuable for high performance robots. I recommend the [Omio](https://www.omiocnc.com/products.html) line of CNC machines. Fusion360 is a great free Computer-Aided Machining (CAM) software with tons of online resources that makes it easy to learn.
+Making metal parts is really cool. For a couple grand you can buy a big CNC router, which is very valuable for high performance robots. I recommend the [Omio](https://www.omiocnc.com/products.html) line of CNC machines. Fusion360 is a great free Computer-Aided Machining (CAM) software with tons of online resources that makes it easy to learn.
 
 ### Personal Projects
 If you want to be good at anything, you need to work on projects of your own. I have a friend who taught herself how to code and is now making 6 figures at an AI startup straight out of high school. She just really loves programming. Ben Katz, the creator of the [MIT Minicheetah](https://www.youtube.com/watch?v=xNeZWP5Mx9s), became an incredible engineer by building things for fun (read about his projects on his [blog](https://build-its.blogspot.com/)). You'd be surprised by how much you can do by yourself.

@@ -48,6 +48,14 @@
   url = "https://x.com/imai_keiji"
   weight = 40
 
+[[main]]
+  identifier = "Twitter"
+  pre = "x-twitter"
+  url = "https://x.com/imai_keiji"
+  weight = 40
+
+
+
 #[[main]]
 #  name = "Categories"
 #  pageRef = "categories"
