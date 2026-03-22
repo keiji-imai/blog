@@ -6,59 +6,57 @@ description: "On working too hard"
 summary: "On working too hard"
 ---
 
-To be a good Formula One driver, you first need to beat your teammate. Nobody else has the same car — they are the one driver you have no excuse for losing to. Unfortunately for Nico Rosberg, his teammate was Lewis Hamilton, his childhood friend and reigning two-time world champion. 
+To truly win as a Formula One driver, you need to beat your teammate. There's no excuse for losing - they have the same car. Unfortunately for Nico Rosberg, his teammate was his childhood friend and reigning two-time world champion, Lewis Hamilton.
 
-But Rosberg was tired of coming in second. In the 2016 [Spanish GP](https://www.youtube.com/watch?v=gCzkaX2DL7w), Rosberg had the lead, and as Hamilton tried to dart around Rosberg cut him off, forcing Hamilton into the grass where he spun out and sent both cars crashing into the dirt[^1]. They collided again in the 2016 [Austrian GP](https://www.youtube.com/watch?v=ixmGVL4dedI) as they fought for first place.
+Rosberg was tired of coming in second. In the 2016 [Spanish GP](https://www.youtube.com/watch?v=gCzkaX2DL7w), Hamilton tried to take the lead when Rosberg cut him off, sending both cars crashing into the dirt[^1]. They collided again in the 2016 [Austrian GP](https://www.youtube.com/watch?v=ixmGVL4dedI) as they fought for first place.
 
 In an [interview](https://www.espn.co.uk/f1/story/_/id/21271511/nico-rosberg-messed-lewis-hamilton-head-en-route-2016-f1-title) later that season, Rosberg said, 
 >"I decided to stop cycling because the leg muscles are among the heaviest things on your body. I lost 1kg as a result that August. One kilo of body weight is 0.04 of a second per lap when the car is at the weight limit. I was on pole at Suzuka by 0.03 seconds. My smaller leg muscles got me on pole." 
 
-Rosberg then won at Suzuka, giving him the points necessary to take the world champion title from Hamilton. He [retired](https://www.bbc.com/sport/formula1/38185846) 5 days after winning the championship.
+Rosberg then won at Suzuka, giving him the points necessary to take the world champion title from Hamilton. He [retired](https://www.bbc.com/sport/formula1/38185846) 5 days after.
 
-Nico Rosberg won for the same reason that he crashed. He won by dancing on the edge. Sometimes he fell off the edge and crashed, losing races and risking injury. But if he had stayed clear of the edge he wouldn't have had any chance at all.
+Nico Rosberg won for the same reason that he crashed. He was dancing on the edge. Sometimes he stumbled off, losing races and risking serious injury or death. But if he wouldn't have had any chance at winning had he kept a safe distance.
 
-Designing a racecar is as precarious as driving one. Lightweight cars are faster, but if even one component is too light, it fails and your car breaks. By doing rigorous calculations, simulation and testing, racecar engineers design parts that are as efficient as possible and just barely strong enough. The fastest car is the closest to its breaking point.
+Designing a racecar is dangerous too. Lightweight cars are faster but more fragile, and any component that was lightweighted too much might fail and crash the car. Racecar engineers develop rigorous calculations, simulations and tests to design parts that are just barely strong enough to survive. The fastest car is on the verge of breaking.
 
-Racing pushes people to their limits too. I found my limit through Formula SAE, a collegiate engineering competition where students around the world build formula-one style racecars. As system leads on MIT Motorsports, my friends and I sacrificed our grades, health, and social life, and endured immense stress and frustration for the car. Sometimes we pushed ourselves too far and burned out, but for some reason we got up and kept going every time.
+These all or nothing challenges push people to their limits. I experienced this myself through Formula SAE, a collegiate engineering competition where students around the world build and race formula-one-style open-wheel racecars. My friends and I sacrificed our grades, health, and social life to design, build, and get 400 km of testing on the [MY24 car](https://kogappa.com/projects/frame/) in just one year. Sometimes we pushed ourselves too far and burned out, but for some reason we got up and kept going every time.
 
 
 ---
 
 
-Unpaid suffering is synonymous with the Formula SAE experience. In his book "Racecar: Searching for the Limit in Formula SAE," Matt Brown writes,
+It's not easy to explain why so many Formula SAE students voluntarily commit themselves to immense unpaid suffering. In his book "Racecar: Searching for the Limit in Formula SAE," Matt Brown writes,
 >"During one of my seldom trips home, a high school friend asked me why I had chosen, among all of life’s opportunities, to spend all my time on a racecar. I didn’t have an answer for him. I had never thought about it. Amidst all the chaos and stress and frustration, during all the sleepless nights and last minute deadlines, I never asked myself why I was doing it."
 
-The natural takeaway is that Formula SAE teams are full of masochistic workaholics with questionable life priorities. There may be some truth to that, but it's worth exploring why these students care so much about their glorified go-karts.
+The natural conclusion is that Formula SAE engineers are masochistic workaholics with questionable life priorities. There's some truth to that, but let me try to explain why we care so much about our glorified go-karts.
 
-The "live to work" stereotype describes people who work more than 80 hours a week and are driven by toxic work culture, egotistic addiction to ambition, or taking pride in working longer hours than others. Not exactly the picture of personal happiness and fulfillment. What's more, in many environments, working longer hours actually results in less work getting done. [Studies](https://cs.stanford.edu/people/eroberts/cs181/projects/crunchmode/econ-crunch-mode.html) consistently show that working more than 50 hours a week for an extended period of time cripples productivity to the point that progress actually drops below what it would have been with a 40 hour workweek.
+It's easy to stereotype racecar tryhards as people who "live to work." People who put in 80 hours a week tend to be driven by negative influences such as toxic work culture, egotistic addiction to ambition, or taking pride in working longer hours than others. It's not even clear if this results in more productivity; [Studies](https://cs.stanford.edu/people/eroberts/cs181/projects/crunchmode/econ-crunch-mode.html) show that working more than 50 hours a week for an extended period of time cripples productivity to the point that progress actually drops below what it would have been with a 40 hour workweek.
 
-But for most people, working is a means to an end. In other words, they "work to live." In [the short piece](https://archive.is/OczxS#selection-815.0-818.0) "The Work You Do, the Person You Are,"  Toni Morrison describes how working a cleaning job as a child shaped her perspective on work. She was proud of making money to help her parents pay the bills, but the work itself was tedious and painful. When she shared her problems with her father, he told her, 
+But for the average person, working is simply a means to an end. This is the "work to live" philosophy. In [the short piece](https://archive.is/OczxS#selection-815.0-818.0) "The Work You Do, the Person You Are,"  Toni Morrison describes how working a cleaning job as a child shaped her perspective on work. She was proud of making money to help her parents pay the bills, but the work itself was tedious and painful. When she shared her problems with her father, he told her, 
 >"Listen. You don’t live there. You live here. With your people. Go to work. Get your money. And come on home."
 
 Morrison interpreted this as follows:
 
-> **1.** Whatever the work is, do it well—not for the boss but for yourself.
-> **2.** You make the job; it doesn’t make you.
-> **3.** Your real life is with us, your family.
+> **1.** Whatever the work is, do it well—not for the boss but for yourself. <br>
+> **2.** You make the job; it doesn’t make you.<br>
+> **3.** Your real life is with us, your family.<br>
 > **4.** You are not the work you do; you are the person you are.
 
-This attitude is different from "living to work" in two ways: your self-worth is not determined by your work, and that your personal life is more important than your work. Take your work seriously, but remember that you're doing it so that you can go home and do the things that truly make you happy — spending time with family, having fun with friends, and enjoying leisure activities.
+This attitude is different from "living to work" in two ways: your self-worth is not determined by your work, and your personal life is more important than your work. Take your work seriously, but remember that you're doing it so that you can go home and do the important things — spending time with family, having fun with friends, and enjoying leisure activities.
 
----
 
-The problem with work-life balance is the assumption that work and life can't mix. For the sake of argument, let's define work as the things you have to do, including studying for school and doing taxes, in addition to working for money. In the context of work-life balance, life is what you choose to do, like spending time with friends and family. Work-life balance assumes that what you have to do and what you want to do are mutually exclusive. But they don't have to be. 
+The problem with work-life balance is the assumption that work and life can't mix. You don't have to spend half of your waking hours doing something you don't love. In the work-life balance framework, work is the things you have to do, like studying, taxes, and working for money, and life is what you choose to do, like spending time with friends and family. But what you have to do and what you want to don't have to be mutually exclusive.
 
-Something special happens when you do focused work for a long time[^2]. You get addicted. You don't notice it, but you're much more efficient than usual. You're so immersed that work that would normally be tedious is somehow enjoyable. Before you know it, sunlight is pouring through the windows, and you realize you've spent all night working, not because you had to, but because you wanted to. 
+Something special sometimes happens when I do focused work for a long time.[^2] I get addicted. I'm making progress and I find myself enjoying work that's normally tedious. Before I know it, sunlight is pouring through the windows, and I realize I've spent all night working, not because I had to, but because I wanted to. 
 
-If your work is exciting and meaningful, it doesn't feel like work. Work like this makes you feel alive. It defies the diminishing productivity problem — If you love your work, you can work long hours without losing productivity because you're having fun. You'd have trouble finding a professional athlete who doesn't love their job, because pain and effort required to get there is too much for someone who isn't deeply in love with the sport. The way to escape work-life balance is doing work that you love.
+If you're making a lot of progress on work that is exciting and meaningful, it doesn't feel like work. It makes you feel alive. This kind of work defies the diminishing productivity problem. If you love what you do, you can work long hours without losing productivity because having fun gives you energy. For professional athletes, loving your job is a prerequisite, because the pain and effort required to get there is too much for someone who isn't addicted. Falling in love with your work allows you to escape the work-life balance framework and work hard while having a good time.
 
 ---
 
 Unfortunately, it's not that easy to be passionate about work. It has to come naturally. Even if you love your job in theory, usually life gets in the way and working is a drag in practice.
 
-Last summer, I was a mechanical design intern at an amazing robotics company called [Mujin](https://kogappa.com/projects/mujin/). The engineering I got to do was awesome. I was designing complex mechanisms, getting them manufactured, and assembling and testing them myself. On paper, this was my dream job. But after a month of working all day every day I started getting tired of it. Sometimes I wanted to work and sometimes I didn't, but I had to show up on time every day anyway. As an intern, I have friends on the team and I wouldn't be at the company for long enough to see my projects make it to production.
+Last summer, I was a mechanical design intern at an amazing robotics company called [Mujin](https://kogappa.com/projects/mujin/). The engineering I got to do was awesome. I was designing complex mechanisms, getting them manufactured, and assembling and testing them myself. On paper, this was my dream job. But after a month of working I started getting tired of it. Sometimes I really wanted to work and sometimes I really didn't, but I had to show up on time every day anyway. 
 
-On MIT Motorsports I have full ownership over my projects. As Chassis Lead, the car's frame is my responsibility. I set my own deadlines and I can work on my own terms as long as the frame is built on time for the team to have a functional car. 
 
 My teammates on MIT Motorsports are also my closest friends at MIT. Working together is fun. We joke around and support each other in a way that isn't possible in a typical work environment. We go on ski trips and celebrate holidays together. And most importantly, the late nights in shop and the hard work that everyone put in built up strong camaraderie and mutual respect. 
 

@@ -50,26 +50,6 @@
     </item>
     
     <item>
-      <title>Marine Robotics Group</title>
-      <link>http://localhost:1313/projects/mrg/</link>
-      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/mrg/</guid>
-      <description>Collecting IMU data with a 6-axis arm</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mrg/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Front Wing Mounting</title>
-      <link>http://localhost:1313/projects/fwm/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/fwm/</guid>
-      <description>Learning to design efficiently using hand calcs</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fwm/featured.jpg" />
-    </item>
-    
-    <item>
       <title>Mags</title>
       <link>http://localhost:1313/projects/mags/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
@@ -77,16 +57,6 @@
       <guid>http://localhost:1313/projects/mags/</guid>
       <description>An unbeatable chess robot that moves pieces using magnets</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mags/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Dyno</title>
-      <link>http://localhost:1313/projects/dyno/</link>
-      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/dyno/</guid>
-      <description>Building a dyno to characterize a motor and custom inverter</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/dyno/featured.png" />
     </item>
     
     <item>

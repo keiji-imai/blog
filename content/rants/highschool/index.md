@@ -78,7 +78,7 @@ You can build almost anything with just a 3D printer. If you have the money, I *
 Making metal parts is really cool. For a couple grand you can buy a big CNC router, which is very valuable for high performance robots. I recommend the [Omio](https://www.omiocnc.com/products.html) line of CNC machines. Fusion360 is a great free Computer-Aided Machining (CAM) software with tons of online resources that makes it easy to learn.
 
 ### Personal Projects
-If you want to be good at anything, you need to work on projects of your own. I have a friend who taught herself how to code and is now making 6 figures at an AI startup straight out of high school. She just really loves programming. Ben Katz, the creator of the [MIT Minicheetah](https://www.youtube.com/watch?v=xNeZWP5Mx9s), became an incredible engineer by building things for fun (read about his projects on his [blog](https://build-its.blogspot.com/)). You'd be surprised by how much you can do by yourself.
+If you want to be good at anything, you need to work on projects of your own. I have a friend who taught herself how to code and is now making six figures at an AI startup straight out of high school. She just really loves programming. Ben Katz, the creator of the [MIT Minicheetah](https://www.youtube.com/watch?v=xNeZWP5Mx9s), became an incredible engineer by building things for fun (read about his projects on his [blog](https://build-its.blogspot.com/)). You'd be surprised by how much you can do by yourself.
 
 ## College Applications
 

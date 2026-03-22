@@ -31,12 +31,12 @@
     
     <item>
       <title>Front Wing Mounting</title>
-      <link>http://localhost:1313/projects/fwm/</link>
+      <link>http://localhost:1313/posts/fwm/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/fwm/</guid>
+      <guid>http://localhost:1313/posts/fwm/</guid>
       <description>Learning to design efficiently using hand calcs</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fwm/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fwm/featured.jpg" />
     </item>
     
     <item>
@@ -51,12 +51,12 @@
     
     <item>
       <title>Dyno</title>
-      <link>http://localhost:1313/projects/dyno/</link>
+      <link>http://localhost:1313/posts/dyno/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/dyno/</guid>
+      <guid>http://localhost:1313/posts/dyno/</guid>
       <description>Building a dyno to characterize a motor and custom inverter</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/dyno/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dyno/featured.png" />
     </item>
     
   </channel>
