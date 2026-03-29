@@ -11,7 +11,7 @@ This is currently a draft, I'd very much appreciate feedback [anonymously](https
 
 *****
 
-I hate that loneliness is optional. In high school, I always ate lunch every day by myself and went through my day without talking to anybody. This was the least lonely period of my life. For me, loneliness comes from the *longing* for connection, not the absolute quantity of it. I now have lots of friends both in-person and oceans away, yet the pang of loneliness strikes on weekends when I don't know what to do with myself.
+It's annoying that loneliness is optional. In high school, I always ate lunch every day by myself and went through my day without talking to anybody. This was the least lonely period of my life. For me, loneliness comes from the *longing* for connection, not the absolute quantity of it. I now have lots of friends both in-person and oceans away, yet the pang of loneliness strikes on weekends when I don't know what to do with myself.
 
 This is a stupid problem. Why don't I just fix my attitude and be grateful for the friends and connection that I have and enjoy spending time alone?
 
