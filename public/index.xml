@@ -11,12 +11,12 @@
     
     <item>
       <title>The Loner&#39;s Dilemma</title>
-      <link>http://localhost:1313/rants/loner/</link>
+      <link>http://localhost:1313/rants/lonely/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/rants/loner/</guid>
+      <guid>http://localhost:1313/rants/lonely/</guid>
       <description>The right amount of loneliness</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/loner/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/lonely/featured.png" />
     </item>
     
     <item>
@@ -66,7 +66,7 @@
       
       <guid>http://localhost:1313/rants/listening/</guid>
       <description>On what it means to be a good person</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/listening/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/listening/featured.png" />
     </item>
     
     <item>
@@ -146,7 +146,7 @@
       
       <guid>http://localhost:1313/rants/highschool/</guid>
       <description>Advice for high school me</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/highschool/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/highschool/featured.png" />
     </item>
     
     <item>
