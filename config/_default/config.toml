@@ -15,7 +15,7 @@ buildDrafts = false
 buildFuture = false
 
 [permalinks]
-  "s/loveyoumom" = "/loveyoumom"
+#  "s/loveyoumom" = "/loveyoumom"
 
 
 googleAnalytics = "G-ECNM3T7Q6V"
