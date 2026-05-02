@@ -76,6 +76,11 @@
   url = "https://www.admonymous.co/keiji"
   weight = 10
 
+[[footer]]
+  name = "Email me"
+  url = "mailto:keijii@mit.edu"
+  weight = 10
+
 # [[footer]]
 #   name = "Tags"
 #   pageRef = "tags"
