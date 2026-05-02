@@ -40,6 +40,7 @@ mainSections = ["projects"]
   showDate = true
   showViews = true
   showLikes = true
+  showComments = true
   showDateUpdated = true
   showAuthor = false
   showHero = false

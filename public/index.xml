@@ -10,12 +10,12 @@
     <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The Loner&#39;s Dilemma</title>
+      <title>Not Lonely Enough</title>
       <link>http://localhost:1313/rants/lonely/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/rants/lonely/</guid>
-      <description>The right amount of loneliness</description>
+      <description>Loneliness is optional but important</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/lonely/featured.png" />
     </item>
     

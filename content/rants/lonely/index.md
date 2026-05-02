@@ -1,9 +1,9 @@
 ---
-title: "The Loner's Dilemma"
+title: "Not Lonely Enough"
 date: 2026-03-29
 draft: False
-description: "The right amount of loneliness"
-summary: "The right amount of loneliness"
+description: "Loneliness is optional but important"
+summary: "Loneliness is optional but important"
 ---
 
 
@@ -11,7 +11,7 @@ This is currently a draft, I'd very much appreciate feedback [anonymously](https
 
 *****
 
-It's annoying that loneliness is optional. In high school, I always ate lunch by myself and went through my day without talking to anybody. This was the least lonely period of my life. For me, loneliness comes from the *longing* for connection, not the quantity of it. I now have lots of friends both in-person and oceans away, yet the pang of loneliness strikes on weekends when I don't know what to do with myself.
+Since high school I knew that loneliness is optional. I would always eat lunch by myself and not talk to anybody all day, but I didn't feel lonely at all. For me, loneliness comes from the *longing* for connection, not the quantity of it. I now have lots of friends both in-person and oceans away, yet the pang of loneliness strikes on weekends when I don't know what to do with myself.
 
 This is a stupid problem. Why don't I just fix my attitude and be grateful for the friends and family that I have and enjoy spending time alone?
 
