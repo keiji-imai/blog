@@ -2,8 +2,8 @@
 title: "Not Lonely Enough"
 date: 2026-03-29
 draft: False
-description: "Loneliness is optional but important"
-summary: "Loneliness is optional but important"
+description: "Loneliness is underrated"
+summary: "Loneliness is underrated"
 ---
 
 
