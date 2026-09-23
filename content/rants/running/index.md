@@ -6,38 +6,33 @@ description: "What's the point of pain?"
 summary: "What's the point of pain?"
 ---
 
-My ankles would scream for forgiveness but they don't have a mouth. I keep running.
+I might have clearer thoughts while running because I can't spare the oxygen for stupid ones. Now that I think about it, I actually have a lot of delusional thoughts while running. Less unhappy ones though, because if I wanted to suffer more I'd just run faster.
 
-I have clearer thoughts while running because I can't spare the oxygen for bad ones. Sounds like something I thought of while NOT running. Total copium. Now my side is hurting too.
+The stop light is red, but it turns green as soon as I get to it, smirking at me. 
 
-The stop light is red. Thank God. No. NO. There is no God. Damn it. 
+In life, usually you try to maximize the area under the happiness vs time curve, but running is the opposite. Someone told me that starting your day with a run is the best way to make sure that your day can't get any worse than it started. 
 
-In life, usually you try to maximize happiness over time, but running is the opposite. Not sure where I was going with that one. Is it normal for my shoulder to ache like this?
+The sun is bright and the pain is sharp. I wonder why I run. I don't really care that much about my health. If I did I wouldn't eat so much ice cream. Ice cream is the only thing in life which never fails to make me happy. I would do a lot things differently if I truly cared about my health. And running isn't going to make me jacked. I'd probably be better off using a rowing machine in the gym for that. Maybe it's about ego—wanting to think of myself as someone who runs. But I'm not training for a marathon, or any kind of athletic achievement. I don't even run that regularly. Do I run simply for the satisfaction of pain? 
 
-The sun is bright. The pain is brighter. I don't care much about my health. If I did I wouldn't eat so much ice cream. I don't care much about my appearance either. I need a haircut. So do I run for the pain of it? The satisfaction of hurting myself?
+I think I like the pain. It's a reminder that I'm capable of doing difficult things. A good challenge is exciting.
 
 Sweat bites the corners of my eyes. You don't have to deal with sweat when you swim. I miss that. 
 
-I think the pain is the point. It's a reminder that I'm capable of doing difficult things. 
+Treadmills are lame. Sure, they help with pacing, but is it really worth giving up the beauty of the outdoors for the stuffy air-conditioned gym? Is this kind of convenience good? Does training matter more than the experience itself? I don't like apps like Strava that try to turn running into a social media ego contest. I don't want to plug in earbuds and maintain a Strava streak, I want to pursue the experience of running and all its pain for its own sake. 
 
-Running on a treadmill and listening to music is lame. I know it's better for pacing or whatever, but does speed even matter? You should push yourself regardless. Who cares about metrics? Go outside and look like a lunatic. Apps like Strava suck too. Can we at least pursue pain for its own sake?
+Running is easy once you've started. By the time you're really feeling it, even if you stop, you're still far from home. You could walk back but it would take forever. After you catch your breath you feel silly walking in running clothes. And running away from home hurts just as much as running towards it. That makes it a bit different from weight lifting where quitting partway through is easier. Motivation is shortsighted, so you get twice as much pain per unit motivation. I'm thinking about pain to distract myself from pain, huh.
 
-Running is easy once you've started. Even if you stop, you're still far from home. You could walk back but it would take forever. After you catch your breath you feel silly walking in running clothes. And running away from home hurts just as much as running towards it. Motivation is shortsighted, so you get twice as much pain per unit motivation. I'm thinking about pain to distract myself from pain, huh.
+I'm not sure that it's normal for my shoulder to be aching. My 10th grade US history teacher used to say that the smallest dogs are the most puntable. She might have had a point—the howling little fluff dog I just ran past could've made a good football. I kind of feel like a barking pomeranian myself. Kind of like the opposite of an underdog, all bark and no bite.
 
-The tiniest dogs have the biggest barks. Seriously, that dog is way too fluffy to be so aggressive. Ringo could eat him for breakfast. I'm like that sometimes. Not eating dogs, I mean the performative barking. Having something to prove. Insecurity. I want respect. I like to think of myself as an underdog but I think a proper underdog wouldn't bark so much.
+Sometimes it starts hurting less a few miles in. Is that psychological? I guess my body gets tired of begging for forgiveness after a while. My body is like, whatever man, it's your life. Does running improve my pain tolerance? I don't know. I think it's more like trading psychological suffering for physical pain. Being as lucky and privileged as I am, most of my suffering is self-inflicted anyway. I think Murakami said that "I can endure any pain as long as it has meaning." The meaning of this self-inflicted physical pain is to replace my self-inflicted mental suffering.
 
-Sometimes it starts hurting less a few miles in. Is that psychological? I guess my body gets tired of begging after a while. Whatever man, it's your life. Does running improve your pain tolerance? I don't know. I wonder if that happens with torture victims. Okay, well now it's hurting again.
+The Charles is always so beautiful. Let me stop to take a picture. I would keep running, that would be no problem at all, but seriously look at the skyline. Someone wrote Jesus in the snow.
 
-Man, the Charles is beautiful. Let me stop to take a picture. To be clear, I would totally keep running, I'm not even tired, but look at the skyline. 
+![charles](image.png)
 
-![jesus](image.png)
+Now that I'm breathing normally, I'm struck with the question, who invented the Tiramisu? I saw the tomb of Queen Margherita in the Pantheon once. I wonder if she came up with the recipe. Legacy and fame is kind of unfair. I bet the guy who invented Dim Sum wouldn't mind that he's not that famous though. In the end, the feeling of having contributed probably matters a lot more than the recognition that may or may not come with it.
 
-Wait did someone write Jesus in the snow? Wow. I'm breathing normally now.
-
-
-Pythagoras came up with the Pythagorean Formula, but who invented the Tiramisu? Whoever came up with Dim Sum was seriously cooking. I saw the tomb of Queen Margherita in the Pantheon once. I don't think she came up with the recipe though. Legacy and fame is kind of unfair. I bet the guy who invented dumplings wouldn't mind that he's not that famous though.
-
-I hope my shoelaces get untied. I wonder if marathon runners have thoughts like this. I wonder if they would run faster if they had pain killers. Do opioids count as a performance enhancing drug?
+Now would be a great time for my shoelaces to get untied. I wonder if marathon runners have thoughts like this. Would they would run faster if they had pain killers? 
 
 How close do I need to get to the door before I can start walking? Nobody's watching. 
 
@@ -45,17 +40,15 @@ Okay, I'm done.
 
 That wasn't so bad. 
 
-I'm hardly out of breath. 
+I'm hardly out of breath even. Barely broke a sweat.
 
-Why do I even do this to myself. 
+Why do I even do this? 
 
-Why do I even do anything? 
+A bunch of rogue neurons hijacked a biological mech to rebel against its own endorphins that developed an aversion to pain over 4 billion years of evolution. 
 
-A bunch of neurons hijacked a biomechanical contraption to rebel against its own endorphins that were developed over 4 billion years of evolution. 
+A tiny organism running in circles every morning, accomplishing net zero work, on a tiny blue marble smaller than a speck of dust in one of the trillions of galaxies. 
 
-A tiny human running in circles, accomplishing net zero work, on a tiny blue marble smaller than a speck of dust in one of the trillions of galaxies. 
-
+Does the question of why even matter?
 
 ![earth](image-1.png)
 
-What is this world even?
