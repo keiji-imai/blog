@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/rants/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/rants/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Upside Down</title>
+      <link>http://localhost:1313/rants/upside-down/</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/upside-down/</guid>
+      <description>Learn top down instead of building up</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/upside-down/featured.jpg" />
+    </item>
     
     <item>
       <title>Running Thoughts</title>
