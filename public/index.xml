@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What Scares me about Superintelligence</title>
+      <link>http://localhost:1313/rants/superintelligence/</link>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rants/superintelligence/</guid>
+      <description>I don&amp;rsquo;t want to give away the future</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rants/superintelligence/featured.jpg" />
+    </item>
     
     <item>
       <title>Upside Down</title>
