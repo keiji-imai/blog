@@ -1,5 +1,5 @@
 ---
-title: "What Scares me about Superintelligence"
+title: "What Scares Me About Superintelligence"
 date: 2026-09-25
 draft: False
 description: "I don't want to give away the future"
